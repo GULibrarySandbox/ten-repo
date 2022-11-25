@@ -34,19 +34,19 @@ Your research team should agree on the following elements of a file name prior t
 
 As previously suggested, consistent and meaningful naming of files and folders can improve efficiency.  See this example below:
 
-`YYYYMMDD_SiteA_SensorB.CSV`
+`Date_Location_Sensor.filetype`
 
-`Date  Location   Sensor`
+`YYYYMMDD_SiteA_SensorB.CSV`
 
 Which when applied, would look like this below
 
-`20150621_Yaouk_Humidity.CSV`
+`20150621_MtGravatt_Humidity.CSV`
 
 Some characters may have special meaning to the operating system so avoid using these characters when you are naming files. These characters include the following:
 
-/ \ " ' * ; - ? [ ] ( ) ~ ! $ { } &lt > # @ & | space tab newline 
+`/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   space   tab   newline   `
 
-Source: https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm
+Source: [https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm)
 
 The University of Edinburgh has a comprehensive and easy to follow list (with examples and explanations) of [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 
@@ -56,11 +56,12 @@ Consider an easy naming convention for your data files and documents.
 Any dates are best stored with YYYYMMDD because it can be re-ordered chronologically.
 Avoid spaces in your file names because some applications do not support it.{% endcapture %}{% include card.html header="First steps" text=text %}
 
-### Intermediate
-Make sure you follow 13 Rules for file naming conventions  https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
+{% capture text %}
+Make sure you follow 13 Rules for file naming conventions :  [https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
+{% endcapture %}{% include card.html header="Intermediate steps" text=text %}
 
-### Advanced
-Do you have a policy in your team around naming conventions? If not, this is a great way of discussing the priorities of the research data.
+{% capture text %}
+Do you have a policy in your team around naming conventions? If not, this is a great way of discussing the priorities of the research data.{% endcapture %}{% include card.html header="Advanced steps" text=text %}
 
 
 ### Internal Resources
@@ -70,6 +71,5 @@ Do you have a policy in your team around naming conventions? If not, this is a g
 ### External Resources
 * [Naming things by Jenny Bryan](https://speakerdeck.com/jennybc/how-to-name-files)
 * [File naming and folder conventions by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
-* The University of Edinburgh has a comprehensive yet easy to follow list (with examples and explanations) of 13 Rules for file naming conventions https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
-* Australian National Data Services (ANDS). (2018). ANDS Guide: File wrangling. Retrieved from https://www.ands.org.au/working-with-data/data-management/file-wrangling 
+* The University of Edinburgh has a comprehensive yet easy to follow list of 13 Rules for file naming conventions [https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 

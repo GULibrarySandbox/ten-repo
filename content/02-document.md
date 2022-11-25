@@ -37,7 +37,7 @@ Read [How to start Documenting and more](https://www.cessda.eu/Training/Training
  
 Start by documenting in a text (.txt) file or Word document - any start is a good start. Include information on where your results and working data are saved. 
 
-You can also include a copy your lab notebook if you have one onto a digital format. 
+You can also include a copy your lab notebook if you have one onto a digital format.  
 
 Save documentation somewhere that's accessible to your supervisor/team such as Microsoft Teams, Sharepoint or Research Drive.  
 

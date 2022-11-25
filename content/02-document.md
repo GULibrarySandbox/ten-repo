@@ -21,7 +21,7 @@ Documentation also reduces the risk to a research team from a low **Bus Factor**
 
 The *Bus Factor* is the number of people who, if they were suddenly lost to the team (e.g., if they were hit by a bus), would cause a major disruption to the project and would compromise the entire research process. It is also called the *Lottery Number*, which has a more positive connotation but the threat to the team remains the same. 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="Bus Factor" caption="Bus factor" width="50%" %}
+{% include figure.html img="busfactor.jpg" alt="Bus Factor" caption="Bus factor" width="50%" %}
 
 Individual circumstances can change suddenly and if it should occur to one member of the team whose loss would cause major disruption, that is considered to be a *Bus Factor* of 1. The smaller the number, the greater the danger to the project. The number of people that would have to be lost for the research project to fail must be as high as possible. 
 

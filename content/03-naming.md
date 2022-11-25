@@ -56,12 +56,13 @@ See this example below which uses a `standard date format` followed by `file top
 Which when applied, would look like this below
 
 `20220621_MtGravatt_Humidity.CSV`
-
-{% include alert.html text="Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
+{% capture text %}
+Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
 
 `/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   space   tab   newline`
 
-Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm)" align="centre" color="success" %}
+Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm){% include alert.md text=text color=warning %}
+
 
 {% capture text %}
 Create an easy naming convention for your data files and documents. 

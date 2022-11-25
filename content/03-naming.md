@@ -36,7 +36,18 @@ Your research team should agree on the following elements of a file name prior t
 * Order - confirm which element should go first, so that files on the same theme are listed together and can therefore be found easily
 * Numbers - specify the amount of digits that will be used in numbering so that files are listed numerically e.g. 01, 002, etc.
 
-See this example below which uses a standard ISO date format followed by file topic information and file type:
+You can also:
+
+* Capitalise the first letter of every new word with no intervening spaces 
+i.e. `PAHospitalAdmissionICU_2010_2020_Raw.csv`	
+* Keep filenames a reasonable length and keep file name information (metadata) separated using upper and lower case 
+i.e.  `Image02_PacificOcean_20200621.jpg`
+* Use logical order for sequential number with padded zeros
+i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
+* For Version numbers consider  `V1, V2` and multiple versions `V1, V2, V2.1` etc.
+* Document your FNC in a `ReadMe.txt` or other documentation file in main shared project folder. It can be useful for staff orientation.
+
+See this example below which uses a `standard date format` followed by `file topic information` divided by `underscores _`, with words using `CapitalCase` and ending in the `file type`:
 
 `Date_Location_Sensor.filetype`
 
@@ -46,22 +57,11 @@ Which when applied, would look like this below
 
 `20220621_MtGravatt_Humidity.CSV`
 
-Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
+{% include alert.html text="Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
 
 `/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   space   tab   newline   `
 
-Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm)
-
-You can also:
-
-* Capitalise the first letter of every new word with no intervening spaces 
-i.e. `PAHospitalAdmissionICU_2010_2020_Raw.csv`	
-* Keep filenames a reasonable length and keep file name information (metadata) separated using upper and lower case 
-i.e.  `Image02_PacificOcean_20200621.csv`
-* Use logical order for sequential number with padded zeros
-i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
-* For Version numbers consider  `V1, V2` and multiple versions `V1, V2, V2.1` etc.
-* Document your FNC in a `ReadMe.txt` or other documentation file in main shared project folder. It can be useful for staff orientation.
+Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm)" align="left" color="warning" %}
 
 {% capture text %}
 Create an easy naming convention for your data files and documents. 

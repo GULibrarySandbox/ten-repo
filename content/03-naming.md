@@ -62,7 +62,7 @@ Some characters may have special meaning to software or the operating system of 
 
 `/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   space   tab   newline`
 
-Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm){% include alert.md text=text color=warning %}{% end capture %}
+Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm){% endcapture %}{% include alert.md text=text color=warning %}
 
 {% capture text %}
 Create an easy naming convention for your data files and documents. 

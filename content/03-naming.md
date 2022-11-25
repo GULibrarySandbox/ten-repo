@@ -71,5 +71,5 @@ Do you have a policy in your team around naming conventions? If not, this is a g
 ### External Resources
 * [Naming things by Jenny Bryan](https://speakerdeck.com/jennybc/how-to-name-files)
 * [File naming and folder conventions by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/File-naming-and-folder-structure)
-* The University of Edinburgh has a comprehensive yet easy to follow list of [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).
+* [13 Rules for file naming conventions by The University of Edinburgh](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).
 

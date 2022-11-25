@@ -52,7 +52,8 @@ This can be anything from a downloaded function list from SPSS/NVIVO to the code
 You could also try to Sync the document automatically to the cloud with your data.{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-Now that you've got a good head start, it's time to learn about Git Repositories and wikis. 
+Now that you've got a good head start, it's time to learn about Git Repositories and wikis for documenting or check out examples of documentation in these major Australian datasets:
+* Bandara, Dinusha; Howell, Leanne; Silbert, Michelle; Daraganova, Galina, 2021, "Ten to Men: The Australian Longitudinal Study on Male Health, Release 3 (Waves 1-3)", [doi:10.26193/JDE1TD](doi:10.26193/JDE1TD), ADA Dataverse, V4 
 
 Learn how to create a code repository in Github with their [Hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world).
 {% endcapture %}{% include card.html header="Advanced" text=text %}

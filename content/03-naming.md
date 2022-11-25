@@ -1,6 +1,6 @@
 ---
-title: Step 3 - Naming
-nav: Naming Conventions
+title: Step 3 - Naming Conventions
+nav: Naming
 ---
 
 If implemented early and consistently, a standardised system for naming files can:

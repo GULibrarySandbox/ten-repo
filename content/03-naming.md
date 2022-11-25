@@ -32,7 +32,7 @@ Your research team should agree on the following elements of a file name prior t
 * Order - confirm which element should go first, so that files on the same theme are listed together and can therefore be found easily
 * Numbers - specify the amount of digits that will be used in numbering so that files are listed numerically e.g. 01, 002, etc.
 
-As previously suggested, consistent and meaningful naming of files and folders can improve efficiency.  See this example below:
+See this example below which uses a standard ISO date format followed by file topic information and filetype:
 
 `Date_Location_Sensor.filetype`
 

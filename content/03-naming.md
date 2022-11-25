@@ -59,9 +59,9 @@ Which when applied, would look like this below
 
 {% include alert.html text="Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
 
-`/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   space   tab   newline   `
+`/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   space   tab   newline`
 
-Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm)" align="left" color="warning" %}
+Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm)" align="centre" color="success" %}
 
 {% capture text %}
 Create an easy naming convention for your data files and documents. 

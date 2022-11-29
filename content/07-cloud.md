@@ -3,7 +3,7 @@ title: Step 7 - Cloud backups
 nav: Cloud
 ---
 
-{% include figure.html img="2022-11-29_14-20-30.jpg" alt="Image representing cloud data storage" caption="Well chosen storage solution simplify version control and collaboration" width="75%" %}
+{% include figure.html img="2022-11-29_14-20-30.jpg" alt="Image representing cloud data storage" caption="Well-chosen storage solutions simplify version control and collaboration" width="75%" %}
 
 ## Cloud Storage of your Data
 ---

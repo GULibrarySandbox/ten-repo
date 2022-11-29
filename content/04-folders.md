@@ -7,9 +7,11 @@ Having a standard folder structure can keep your files organised and save you ti
 
 Like files, folders can also follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow. Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder. 
 
-Please see what a folder structure might look like
+See what a folder structure might look like in these examples.
 
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/folderstructure.jpg)
+
+{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="75%" %}
 
 To develop a logical structure for your team, consider the following:
 * Check that there are no pre-existing folder structure agreements
@@ -26,7 +28,9 @@ Pick a dataset and illustrate how you currently organise your files.
 See if you can devise a better folder naming convention or note one or two improvements you could make to how you arrange your files.
 
 There are some good folder template shapes around. [Here's one you are welcome to download and use](https://github.com/guereslib/MyResearchProjects/archive/master.zip) (double check with Amanda who created this?)
+
 Or another you could try out from researcher Nikola Vukovic [http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).
+
 Check out this example [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL) from University of Sydney.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}

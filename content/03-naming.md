@@ -47,15 +47,15 @@ i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
 * For Version numbers consider  `V1, V2` and multiple versions `V1, V2, V2.1` etc.
 * Document your FNC in a `ReadMe.txt` or other documentation file in main shared project folder. It can be useful for staff orientation.
 
-See this example below which uses a `standard date format` followed by `file topic information` divided by `underscores _`, with words using `CapitalCase` and ending in the `file type`:
+See this example below which uses:
 
-`Date_Location_Sensor.filetype`
+`standard date format` followed by `file topic information` separated by `underscores _`, with words using `CapitalCase` and ending in the `file type`.
 
-`YYYYMMDD_SiteA_SensorB.CSV`
+Naming convention:  `Date_Location_Sensor.filetype`
 
-Which when applied, would look like this below
+Example:            `YYYYMMDD_SiteA_SensorB.CSV`
 
-`20220621_MtGravatt_Humidity.CSV`
+Applied example:    `20220621_MtGravatt_Humidity.CSV`
 
 {% capture text %}
 Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
@@ -69,7 +69,9 @@ Create an easy naming convention for your data files and documents.
 
 Any dates are best stored with YYYYMMDD as file can be re-ordered chronologically.
 
-Avoid spaces in your file names as some applications do not support it.{% endcapture %}{% include card.html header="First steps" text=text %}
+Avoid spaces in your file names as some applications do not support it.
+
+Document your file naming convention in a Readme.txt file and save it with your files.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
 Read and follow Edinburgh University's simple [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).{% endcapture %}{% include card.html header="Intermediate steps" text=text %}

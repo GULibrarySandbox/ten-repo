@@ -14,7 +14,7 @@ nav: Security
 2. Encrpyt your computer's hard drive
 3. Avoid unsecure wifi. If it's available. Eduroam is a better option than free wifi/cafe wifi
 
-#### How to create strong passwords
+**How to create strong passwords
  * Make your password unique for each of your important accounts
  * Make your password longer - at least 12 characters long. 14 or more characters is stronger
  * Use a combination of letters, lowercase letters and symbols
@@ -22,7 +22,7 @@ nav: Security
  * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address
  * Find out if your email address has been compromised [here](https://haveibeenpwned.com/)
 
-#### Encrypt your hard drive
+**Encrypt your hard drive
 * Hard drive encryption converts a physical drive into an unreadable format that cannot be unlocked without the secret key or password that was used to encrypt it. Encryption prevents unauthorized people or hackers from accessing the information on the hard drive.
 * [Encryption](https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection)
 * [Win 10 Encryption](https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10)

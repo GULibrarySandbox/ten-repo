@@ -49,13 +49,13 @@ i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
 
 See this example below which uses:
 
-`standard date format` followed by `file topic information` separated by `underscores _`, with words using `CapitalCase` and ending in the `file type`.
+* `standard date format` followed by `file topic information` separated by `underscores _`, with words using `CapitalCase` and ending in the `file type`.
 
-Naming convention:  `Date_Location_Sensor.filetype`
+* Naming convention:  `Date_Location_Sensor.filetype`
 
-Example:            `YYYYMMDD_SiteA_SensorB.CSV`
+* Format example:     `YYYYMMDD_SiteA_SensorB.CSV`
 
-Applied example:    `20220621_MtGravatt_Humidity.CSV`
+* Applied example:    `20220621_MtGravatt_Humidity.CSV`
 
 {% capture text %}
 Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:

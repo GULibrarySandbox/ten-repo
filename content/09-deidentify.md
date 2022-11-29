@@ -2,7 +2,7 @@
 title: Step 9 - De-identify sensitive data
 nav: De-identify
 ---
-{% include figure.html img="2022-11-29_15-56-19.jpg" alt="Image representing computer security" caption="Secure your computer and your network" width="60" %}
+{% include figure.html img="2022-11-29_15-56-19.jpg" alt="Image representing sensitive" caption="Sensitive data introduces a risk or harm or unwanted attention" width="60" %}
 
 #### De-identify sensitive data
 

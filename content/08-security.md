@@ -3,7 +3,7 @@ title: Step 8 - Computer Security
 nav: Security
 ---
 
-### Step 8
+
 
 ## Computer Security
 

@@ -11,7 +11,7 @@ See what a folder structure might look like in these examples.
 
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/folderstructure.jpg)
 
-{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="75%" %}
+{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="50%" %}
 
 To develop a logical structure for your team, consider the following:
 * Check that there are no pre-existing folder structure agreements

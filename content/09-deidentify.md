@@ -1,6 +1,6 @@
 ---
-title: Step9 - De-identify sensitive data
-nav: true
+title: Step 9 - De-identify sensitive data
+nav: De-identify
 ---
 
 ### Step 9

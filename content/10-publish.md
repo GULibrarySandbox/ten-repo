@@ -3,11 +3,11 @@ title: Step 10 - Publish with Persistent Identifers
 nav: Publish
 ---
 
-## Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
+### Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
 
 At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
 
-### Identifiers vs Persistant Identifiers
+#### Identifiers vs Persistant Identifiers
 
 ##### Identifiers
 
@@ -66,10 +66,10 @@ Ensure data you associate with a publication has a DOI. Library staff are the be
 #### Advanced
 * Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes)
 
-#### Internal Resources
+##### Internal Resources
 * Contact the Library Technology Services Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au) for advice on how to obtain a DOI upon project completion.
 
-## External Resources
+##### External Resources
 * ANDS/ARDC - [Citation and Identifiers](https://www.ands.org.au/working-with-data/citation-and-identifiers)
 * [DOI system for research data](https://www.ands.org.au/guides/doi)
 

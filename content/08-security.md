@@ -9,7 +9,7 @@ nav: Security
 Secure your computer and your network to to reduce the risk of a data breach, theft, hack or misuse. Incorporate the following practices into your everyday routine as well as workplace procedures and policy. Encourage others to do so as well. 
 
 
-### Beginner
+## Beginner
 1. Use strong passwords
 2. Encrpyt your computer's hard drive
 3. Avoid unsecure wifi. If it's available. Eduroam is a better option than free wifi/cafe wifi
@@ -29,13 +29,12 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 * [Win 7 Encryption](https://www.microsoft.com/en-au/download/details.aspx?id=4794) 
 * [Mac OS](https://support.apple.com/en-au/HT204837)
 
-### Intermediate
+## Intermediate
 1. Use a [password manager](https://www.griffith.edu.au/passwords/lastpass)
 2. Enable multifactor authentication (MFA)
 
-### Advanced
-1. Is your lab/office encrypted?
-Note: The boss's computer is usually the most insecure
+## Advanced
+1. Is your lab/office encrypted?  Note: The boss's computer is usually the most insecure
 
 2. Use a VPN whenever you’re not at work
 

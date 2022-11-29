@@ -5,7 +5,7 @@ nav: Publish
 
 ### Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
 
-{% include figure.html img="2022-11-29_14-20-30.jpg" alt="Image representing cloud data storage" caption="Well-chosen storage solutions simplify version control and collaboration" width="75%" %}
+{% include figure.html img="2022-11-29_14-35-55.jpg" alt="Image representing identification" caption="Use persistant identifiers to make your discoverable" width="75%" %}
 
 At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
 

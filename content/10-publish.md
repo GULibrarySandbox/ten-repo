@@ -23,7 +23,7 @@ Management NOT guaranteed:
 * websites shut down
 * product support ends
 
-##### Persistant Identifiers
+###### Persistant Identifiers
 Examples: [ORCID](https://orcid.org/), [Digital Object Identifier](https://www.doi.org/)
 
 Management guaranteed:
@@ -32,7 +32,7 @@ Management guaranteed:
 * links will find the object, even when websites change over time.
 
 
-##### A Digital Object Identifier (DOI) is a unique alphanumeric string that is:
+###### A Digital Object Identifier (DOI) is a unique alphanumeric string that is:
 
 * assigned by either a publisher, organisation or agency 
 * identifiing content
@@ -47,12 +47,12 @@ Like this: [https://research-repository.griffith.edu.au/handle/10072/394379](htt
 
 The second example of a DOI or *Persistent Identifier* is from [Griffiths' Research Data Repository](https://research-repository.griffith.edu.au/).
 
-##### DOIs uniquely identify research data and support citation and citation metrics.
+###### DOIs uniquely identify research data and support citation and citation metrics.
 
 Video: Persistant identifiers and data citation explained (4:52) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Key messages:
+###### Key messages:
 * DOIs are a persistent identifier and as such carry expectations of curation, persistent access and rich metadata
 * DOIs can be created for DATA SETS and associated outputs (eg grey literature, workflows, algorithms, software etc) - DOIs for data are equivalent with DOIs for other scholarly publications
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)

@@ -23,16 +23,19 @@ To develop a logical structure for your team, consider the following:
 {% capture text %}
 Pick a dataset and illustrate how you currently organise your files.
 (For the artists: Draw a picture that describes your current approach to file organisation)  
-See if you can devise a better naming convention or note one or two improvements you could make to how you name your files
+See if you can devise a better folder naming convention or note one or two improvements you could make to how you arrange your files.
 
-There's some really good folder template shapes around. [Here's one you are welcome to download and use URL](https://github.com/guereslib/MyResearchProjects/archive/master.zip) 
-Or another you could try out if you prefer[from http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).{% endcapture %}{% include card.html header="First steps" text=text %}
+There are some good folder template shapes around. [Here's one you are welcome to download and use](https://github.com/guereslib/MyResearchProjects/archive/master.zip) (double check with Amanda who created this?)
+Or another you could try out from researcher Nikola Vukovic [http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).
+Check out this example [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL) from University of Sydney.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
-Develop a procedure on folder structures for your team. You could create a template and put it in a downloadable location for them to get them started.{% endcapture %}{% include card.html header="Advanced" text=text %}
+Develop a procedure on folder structures for your team. You could create a template and put it in a downloadable location for them to get them started.
+
+Use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research {% endcapture%}{% include card.html header="Advanced" text=text %}
 
 ### External Resources
-* Learn more from [http://nikola.me/](http://nikola.me/folder_structure.html)
-* Here's a template we created you are welcome to [download and use](https://github.com/guereslib/MyResearchProjects/archive/master.zip).
+* Folder structure template [http://nikola.me/](http://nikola.me/folder_structure.html)
+* Griffith University [example template](https://github.com/guereslib/MyResearchProjects/archive/master.zip).
 
 [Previous](https:)| [Home](https:) | [Next Page](https:)

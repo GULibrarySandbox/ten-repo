@@ -16,7 +16,7 @@ Choosing the right storage solution will be determined by a number of factors. S
 * legal requirements to retain or discard data
 * best practices in your field.
 
-__Major funders of Australian research, the Australian Research Council (ARC) and the National Health and Medical Research Council (NHMRC) include data management requirements in their funding agreements.
+Major funders of Australian research, the Australian Research Council (ARC) and the National Health and Medical Research Council (NHMRC) include data management requirements in their funding agreements.
 
 At Griffith, three types of data storage are available to researchers
 

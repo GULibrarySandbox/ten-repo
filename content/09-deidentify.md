@@ -5,7 +5,7 @@ nav: De-identify
 
 
 #### De-identify sensitive data
-{% include figure.html img="2022-11-29_15-35-31.jpg" alt="Image representing computer security" caption="Secure your computer and your network" width="75" %}
+{% include figure.html img="2022-11-29_15-56-19.jpg" alt="Image representing computer security" caption="Secure your computer and your network" width="75" %}
 
 Data is considered sensitive when it can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. 
 

@@ -3,7 +3,7 @@ title: Step 7 - Cloud backups
 nav: Cloud
 ---
 
-
+{% include figure.html img="2022-11-29_14-02-32.jpg" alt="Image representing computer security" caption="Secure your computer and your network" width="75%" %}
 
 ## Cloud Storage of your Data
 ---

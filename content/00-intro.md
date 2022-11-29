@@ -10,13 +10,10 @@ A basic tenet in science is the ability to replicate the results of any experime
 Replicating studies with new data is expensive, for this reason computationally reproducible research is recommended as a way to assess the validity and rigor of scientific results. Research is considered reproducible when others can reproduce results of a study with only the original data, code, conditions and documentation. 
 
 Reproducible research has most of the advantages of replicating studies without the financial and time burden associated with collecting new data. It is the by-product of care and attention to detail throughout the research process and seen as a minimum standard that all researchers should strive for.
-
 ___
 ##### Video: Why reproducible research?
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/766353650?h=fb39c9c8a8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:80%;height:80%;" title="Reproducible Research Tutorial"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 ___
-
 #### Benefits of reproducible research
 
 - Easier recall and explanation of work to collaborators, supervisors and reviewers

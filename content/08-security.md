@@ -12,7 +12,7 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 ## Beginner
 1. Use strong passwords
 2. Encrpyt your computer's hard drive
-3. Avoid unsecure wifi. If it's available. Eduroam is a better option than free wifi/cafe wifi
+3. Avoid unsecure wifi. If it is available, Eduroam is a better option than free wifi/cafe wifi
 
 ##### How to create strong passwords
  * Make your password unique for each of your important accounts

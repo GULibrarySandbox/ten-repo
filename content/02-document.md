@@ -33,13 +33,12 @@ Comprehensive documentation is the major strategy for minimising the disruption.
 
 ## How?
 {% capture text %}
-Read [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*. Take note of sections on how you can start documenting at project study level and data level, and the methods for qualitative and quantitative data. 
+Read [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*. Take note of sections on how you can start documenting a project at study level and data level, and the methods for qualitative and quantitative data. 
  
-Start by documenting in a text (.txt) file or Word document - any start is a good start. Include information on where your results and working data are saved. 
-
-You can also include a copy your lab notebook if you have one onto a digital format.  
-
-Save documentation somewhere that's accessible to your supervisor/team such as Microsoft Teams, Sharepoint or Research Drive.  
+* Start by documenting in a text (.txt) file or Micrososft Word document - any start is a good start. 
+* include information on where your results and working data are saved. 
+* include a copy your lab notebook if you have one onto a digital format.  
+* save the documentation file somewhere that's accessible to your supervisor or team such as Microsoft Teams, Sharepoint or Research Drive.  
 
 Find out more about shared storage spaces in [Step 7 - Cloud backups](https://gulibrarysandbox.github.io/ten-repo/content/07-cloud.html).{% endcapture %}
 {% include card.html header="First steps" text=text %}
@@ -49,14 +48,16 @@ Once you have the basics in place from reading [How to start Documenting and mor
 
 This can be anything from a downloaded function list from SPSS/NVIVO to the code used to create it. 
 
-You could also try to Sync the document automatically to the cloud with your data.{% endcapture %}{% include card.html header="Intermediate" text=text %}
+You could also try to Sync the document automatically to the cloud with your data. (This needs a link to more information on how to do this){% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-Now that you've got a good head start, it's time to learn about Git Repositories and wikis for documenting or check out examples of documentation in these major Australian datasets:
-* Bandara, Dinusha; Howell, Leanne; Silbert, Michelle; Daraganova, Galina, 2021, "Ten to Men: The Australian Longitudinal Study on Male Health, Release 3 (Waves 1-3)", [doi:10.26193/JDE1TD](doi:10.26193/JDE1TD), ADA Dataverse, V4 
-
+Now that you've got a good head start, it's time to learn about Git Repositories and wikis for documenting
 Learn how to create a code repository in Github with their [Hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world).
-{% endcapture %}{% include card.html header="Advanced" text=text %}
+
+Or you could explore how research projects with published data have created documentation.
+Check out examples of documentation or readme files in these Australian datasets:
+* Dinusha, B., Howell, L., Silbert, M., Daraganova, G. (2021). Ten to Men: The Australian Longitudinal Study on Male Health, Release 3 (Waves 1-3),, ADA Dataverse, V4. (Dataset). [doi:10.26193/JDE1TD](doi:10.26193/JDE1TD)
+* Smyth, A., Smee, E., Godfrey, S., Crowther, M., Phalen, D. (2014): Haematology of the Sleepy Lizard (Tiliqua rugosa) in Australia's cereal croplands, 2010. Version 1.0.0. Terrestrial Ecosystem Research Network. (Dataset). [https://doi.org/10.4227/05/537c5c5553f9e](https://doi.org/10.4227/05/537c5c5553f9e){% endcapture %}{% include card.html header="Advanced" text=text %}
 
 
 ### Internal Resources

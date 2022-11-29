@@ -6,8 +6,8 @@ nav: Security
 
 
 
+Secure your computer and your network to to reduce the risk of a data breach, theft, hack or misuse. Incorporate the following practices into your everyday routine as well as workplace procedures and policy. Encourage others to do so as well. 
 
-##### Secure your computer and your network to to reduce the risk of a data breach, theft, hack or misuse. Incorporate the following practices into your everyday routine as well as workplace procedures and policy. Encourage others to do so as well. 
 
 ### Beginner
 1. Use strong passwords

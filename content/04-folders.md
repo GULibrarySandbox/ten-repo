@@ -31,7 +31,7 @@ Or another you could try out from researcher Nikola Vukovic [http://nikola.me/](
 
 Check out this example [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL) from University of Sydney.{% endcapture %}{% include card.html header="First steps" text=text %}
 
-{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="25%" %}
+{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="40%" %}
 
 {% capture text %}
 Develop a procedure on folder structures for your team. You could create a template and put it in a downloadable location for them to get them started.

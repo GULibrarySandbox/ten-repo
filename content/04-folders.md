@@ -11,8 +11,6 @@ See what a folder structure might look like in these examples.
 
 ![image](https://github.com/guereslib/Reproducible-Research-Things/raw/master/images/folderstructure.jpg)
 
-{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="50%" %}
-
 To develop a logical structure for your team, consider the following:
 * Check that there are no pre-existing folder structure agreements
 * Name folders appropriately and in a meaningful manner. Don't use staff names and consider using the type of work
@@ -32,6 +30,8 @@ There are some good folder template shapes around. [Here's one you are welcome t
 Or another you could try out from researcher Nikola Vukovic [http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).
 
 Check out this example [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL) from University of Sydney.{% endcapture %}{% include card.html header="First steps" text=text %}
+
+{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="50%" %}
 
 {% capture text %}
 Develop a procedure on folder structures for your team. You could create a template and put it in a downloadable location for them to get them started.

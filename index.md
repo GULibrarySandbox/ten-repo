@@ -9,7 +9,7 @@ layout: default
 
 ## Aims and topics
 
-A collection of resources aimed at facilitating researchers move towards reproducibility. 
+A collection of resources aimed at facilitating researchers moving towards reproducibility. 
 
 Some scenarios to consider:
 

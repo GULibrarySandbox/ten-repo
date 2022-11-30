@@ -30,7 +30,7 @@ Someone has published contradicting results to your published paper
 
 4. 
 A research partner organization believes your sensitive data has been breached or made available to a third party. 
-- Can you show the steps taken and measures taken to avoid this?
+- Can you show the steps taken and measures put in place to avoid this?
 
 ## Audience
 

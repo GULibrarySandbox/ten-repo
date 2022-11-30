@@ -9,7 +9,7 @@ layout: default
 
 ## Aims and topics
 
-A collection of resources to help researchers move along the path towards reproducibility. 
+This tutorial is a collection of resources to help researchers move towards reproducibility. 
 
 Some scenarios to consider:
 

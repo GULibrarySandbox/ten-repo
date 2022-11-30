@@ -20,17 +20,17 @@ A key person from your research team has disappeard (family or personal emergenc
 - Could you keep working effectively for 1 month? 1 year?
 
 2.
-You lose your laptop bag containing your external hard drives. 
+You lose your laptop bag containing your all your external hard drives. 
 - Could you continue your work? 
 - Is your data backed up? Encrypted?
 
 3.
-Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. 
-- Could you?
+Someone has published contradicting results to your published paper
+- Can your provide your data and methods?
 
 4. 
-A research partner organization believes your "sensitive" data has been made available to others (ie a data breach). 
-- Could you show that steps were taken to avoid this or show that it couldn't happen?
+A research partner organization believes your sensitive data has been breached or made available to a third party. 
+- Can you show the steps taken and measures taken to avoid this?
 
 ## Audience
 

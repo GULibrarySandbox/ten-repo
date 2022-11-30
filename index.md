@@ -7,7 +7,7 @@ layout: default
 
 {% include figure.html img="Science LM-7877.jpg" alt="Student in science laboratory" caption="Science Laboratory" width="50%" %}
 
-## Aims and topics
+### Aims and topics
 
 A collection of resources aimed at facilitating researchers moving towards reproducibility. 
 
@@ -32,7 +32,7 @@ Someone has published contradicting results to your published paper
 A research partner organization believes your sensitive data has been breached or made available to a third party. 
 - Can you show the steps taken and measures put in place to avoid this?
 
-## Audience
+### Audience
 
 This workshop is aimed at researchers and research students.
 

@@ -28,7 +28,7 @@ You lose your laptop bag containing your all your external hard drives.
 Someone has published contradicting results to your published paper
 - Can your provide your data and methods?
 
-
+4.
 A research partner organization believes your sensitive data has been breached or made available to a third party. 
 - Can you show the steps taken and measures put in place to avoid this?
 

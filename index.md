@@ -11,15 +11,26 @@ layout: default
 
 A collection of resources to help researchers move along the path towards reproducibility. 
 
-The ten things can help answer these questions or scenarios that are possible in any research project or lab, including:
+Some scenarios to consider:
 
-Q1) What if a key person from your lab disappeared one day (family or personal emergency, no longer contactable)? Could you all continue your work? Would you know where all your data is stored? Could you keep running effectively for 1 month? 1 year?
+1.
+A key person from your research team has disappeard (family or personal emergency or no longer contactable). 
+- Could you continue your work? 
+- Do you know where your data is stored? 
+- Could you keep working effectively for 1 month? 1 year?
 
-Q2) Imagine you're travelling and lose your laptop bag with your external hard drives? Or your office is robbed? Could you continue your work? Is your data backed up? Encrypted?
+2.
+You lose your laptop bag containing your external hard drives. 
+- Could you continue your work? 
+- Is your data backed up? Encrypted?
 
-Q3) Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. Could you?
+3.
+Someone has published contradicting results to your published paper, and you've been asked to provide your data and methods. 
+- Could you?
 
-Q4) If a research partner organization believes your "sensitive" data has been made available to others (ie a data breach). Could you show that steps were taken to avoid this or show that it couldn't happen?
+4. 
+A research partner organization believes your "sensitive" data has been made available to others (ie a data breach). 
+- Could you show that steps were taken to avoid this or show that it couldn't happen?
 
 ## Audience
 

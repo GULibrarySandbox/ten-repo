@@ -2,25 +2,21 @@
 title: Step 5 - Automation
 nav: Automate
 ---
+## Can you automate any repetitive tasks?
 
-### Step 5
-## Automation
----
-## Can you automate any repetitive tasks? 
----
 Often, tasks that need to be done over and over again by a human can be opportunities for human error to sneak in. Setting up an automated way of doing this can eliminate this issue. Anything from an excel formula or macro to coding in a data science frameword can help.
----
-### Beginner
-Let's thing about the repetitive tasks that you could automate- do you always rename files the same way? Do you manually copy files across?
----
-### Advanced
-Could you code up your work so its completely automated? 
----
+
+{% capture text %}
+Let's thing about the repetitive tasks that you could automate - do you always rename files the same way? Do you manually copy files across?
+
 Ways you can automate things:
 * Spreadsheet Macros and formulas
-* MacOS- Automator
-* Win 10- Task scheduler
-* Microsoft flow or Google script
-* Learning to code in Python or R - Talk to your local hacky hour or Software Carpentry people
+* MacOS - Automator [find out how to automate 10 useful things](https://www.idownloadblog.com/2018/11/21/cool-things-mac-automator-tutorial/)
+* Win 10 - Task scheduler [learn how with this blog post](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)
+* Microsoft flow or Google script{% endcapture %}{% include card.html header="First steps" text=text %}
 
-[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step3FolderStruct) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step5Version)
+{% capture text %}
+Could you code up your work so its completely automated? 
+* Learning to code in Python or R - Talk to your local hacky hour or Software Carpentry people{% endcapture %}{% include card.html header="Advanced" text=text %}
+
+[Previous]() | [Home]() | [Next Page]()

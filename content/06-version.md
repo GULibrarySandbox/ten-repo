@@ -9,16 +9,16 @@ Are you keeping track of any versions or logs made by the software in use?
 
 Make sure you have a copy of every step you have completed and if possible, version numbers for the program you are using and any libraries. Programs change over time and this can alter your results if someone asks to replicate your work post publication.
 
----
-### Step 5.1 Never make alterations to your raw data files
+
+### Never make alterations to your raw data files
 
 Instead, make a copy of the raw data files and keep them in a dedicated folder, somewhere safe like [Research Drive or for long-term storage Research Vault](https://research-storage.griffith.edu.au/). That way, if you need to redo your work or you find an error earlier in your workflow, you have an original baseline to start from.
 
-### Step 5.2 Write down versions of analysis software
+### Write down versions of analysis software
 
 Write down the versions of analysis software (like SPSS or NVIVO etc) AND hardware (MRI machines etc). Your documentation is a great place for this, but even in your lab notebook will work.
 
-### Step 5.2.1 Random Number Generator
+### Random Number Generator
 
 If you are using random numbers in your research, save your random seed generator number as part of your working data. This way, you can later reproduce your results.
 

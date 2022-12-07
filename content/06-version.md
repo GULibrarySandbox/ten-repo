@@ -43,7 +43,7 @@ If you’ve heard of Docker or Singularity and you are interested, come talk to 
 
 ### Internal Resources
 
-* Workshops on how to use git are available through [Hacky Hour as Software Carpentry Griffith](https://hackyhourgriffith.wordpress.com/events/soft-carp/).
+* Workshops on how to use git are available through [Software Carpentry workshops at Griffith](https://www.griffith.edu.au/eresearch-services/hacky-hour).
 
 ### External Resources
 

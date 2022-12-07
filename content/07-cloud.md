@@ -17,6 +17,8 @@ Choosing the right storage solution will be determined by a number of factors. S
 
 Major funders of Australian research, the Australian Research Council (ARC) and the National Health and Medical Research Council (NHMRC) require researchers to store and manage their data as part of their funding requirements.  The options below have been developed to meet these requirements.
 
+---
+
 At Griffith, three types of data storage are available to researchers:
 
 #### [Research Drive](https://research-storage.griffith.edu.au/drive/)
@@ -33,7 +35,7 @@ Research space has unlimited storage. Initially, you are provided 5GB of space, 
 
 For long term storage and backup of data. The Research Vault is suited to store safe copy of your raw data or the research of your completed PhD student who is leaving the university.
 
-**Unure which option is best?** [Click here](https://research-storage.griffith.edu.au/compare).
+#### Unure which option is best? [Click here](https://research-storage.griffith.edu.au/compare).
 
 {% capture text %}Back up your data to the cloud in [Research Storage](https://research-storage.griffith.edu.au/) - if you need help selecting the right storage solution for your context, talk to the [Library](https://www.griffith.edu.au/library/contact) or [eResearch Services](https://www.griffith.edu.au/eresearch-services#contact).{% endcapture %}{% include card.html header="Beginner" text=text %}
 

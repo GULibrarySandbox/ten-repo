@@ -39,12 +39,12 @@ If you are using the HPC, also record the version of any modules you used there.
 {% capture text %}
 If you’ve heard of Docker or Singularity and you are interested, come talk to [Griffith hacky hour/eResearch Services](https://www.griffith.edu.au/eresearch-services).{% endcapture %}{% include card.html header="SUPER Advanced" text=text %}
 
-{% include alert.html text="Note: if you are going to *publish* any Git repositories, please contact [Griffith's Information Policy Officer](https://www.griffith.edu.au/copyright-matters) for a copyright licence." align="center" color="success" %}
+{% include alert.html text="Note: if you are going to *publish* a Git repository, contact [Griffith's Information Policy Officer](https://www.griffith.edu.au/copyright-matters) for a copyright licence advice." align="center" color="success" %}
 
 ### Internal Resources
 
-* Workshops on how to use git are available through [Hacky Hour as Software Carpentry Griffith](https://hackyhourgriffith.wordpress.com/events/soft-carp/)
----
+* Workshops on how to use git are available through [Hacky Hour as Software Carpentry Griffith](https://hackyhourgriffith.wordpress.com/events/soft-carp/).
+
 ### External Resources
 
 * [Reproducible research in Git ](https://nbis-reproducible-research.readthedocs.io/en/latest/git/)

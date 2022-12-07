@@ -15,8 +15,7 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 ##### How to create strong passwords
  * Make your password unique for each of your important accounts
  * Make your password longer - at least 12 characters long. 14 or more characters is stronger
- * Use a combination of letters, lowercase letters and symbols
- * Enable multifactor authentication (MFA) whenever available
+ * Create a phrase password, a line from a song, or something else you can remember, incorporating a combination of numbers, letters, lowercase letters and symbols, e.g. HavEY0urse1FAMerrY##  or S1nt1sC0mingT0T0wn!
  * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address
  * Find out if your email address has been compromised [here](https://haveibeenpwned.com/)
 

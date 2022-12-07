@@ -3,7 +3,7 @@ title: Step 6 - Version Control
 nav: Version
 ---
 
-A version control system allows users to keep track of changes in your Data or Process
+A version control system allows users to keep track of changes in your Data or Process.
 
 Are you keeping track of any versions or logs made by the software in use?
 

@@ -10,7 +10,7 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 {% capture text %}
 1. Use [strong passwords](https://www.griffith.edu.au/passwords)
 2. [Encrypt](https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection) your computer's hard drive
-3. Avoid unsecure wifi. If it is available, [Eduroam](https://www.griffith.edu.au/internet-access/wifi/eduroam) is a better option than free wifi/cafe wifi
+3. Avoid unsecure wifi. If it is available, [Eduroam](https://www.griffith.edu.au/internet-access/wifi/eduroam) is a better option than free public or cafe hotspots/networks/wifi.
 
 ##### How to create strong passwords
  * Make your password unique for each of your important accounts
@@ -32,8 +32,8 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 2. Enable [multifactor authentication (MFA)](https://support.microsoft.com/en-us/topic/what-is-multifactor-authentication-e5e39437-121c-be60-d123-eda06bddf661){% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-1. Is your lab/office encrypted?  Note: The boss's computer is usually the most insecure <i class="bi bi-emoji-smile-fill"></i>
-2. Use a VPN whenever you’re not at work
+1. Is your lab/office encrypted?  Note: The boss's computer is usually the most insecure {% include icon.html icon='emoji-smile-fill' %}
+2. Use a [VPN (Virtual private network)](https://au.pcmag.com/vpn/138/the-best-vpn-services) whenever you’re not at work
 3. Keep your operating system and products up to date (especially your web browsers)
 * You can use [Qualsys Browser Check](https://browsercheck.qualys.com/) to confirm your browser is set securely
 * Look at Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) for more information

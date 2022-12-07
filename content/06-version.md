@@ -29,26 +29,27 @@ Copy your raw data to to a dedicated *RawData* folder in a cloud storage solutio
 If you are using a workflow program (Galaxy, KNIME, a virtual lab like [EcoCloud](https://ecocloud.org.au/) or [the Australian Text Analytics Platform - ATAP](https://www.atap.edu.au/), you can copy your workflow and save it as part of your documentation. Write the date that you ran the workflow if versions of the software are not available.{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-If you are writing scripts (R/Python/Matlab etc), use Git.
+If you are writing scripts (R/Python/Matlab etc), use [Git](https://git-scm.com/).
 
 Note:
-Griffith has a gitlab version you can use for private repositories. Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using.<br/>If you are using the HPC, also record the version of any modules you used there.{% endcapture %}{% include card.html header="Advanced" text=text %}
+Griffith has a gitlab version you can use for private repositories. Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using.
 
+If you are using the HPC, also record the version of any modules you used there.{% endcapture %}{% include card.html header="Advanced" text=text %}
 
-### SUPER Advanced
-If you’ve heard of Docker or Singularity and you are interested, come talk to hacky hour/eResearch Services
+{% capture text %}
+If you’ve heard of Docker or Singularity and you are interested, come talk to [Griffith hacky hour/eResearch Services](https://www.griffith.edu.au/eresearch-services).{% endcapture %}{% include card.html header="SUPER Advanced" text=text %}
 
-
-**NB if you are going to publish any Git repos, please talk to Antony Ley, our IP specialist for a copyright licence
-
+{% include alert.html text="Note: if you are going to *publish* any Git repositories, please contact [Griffith's Information Policy Officer](https://www.griffith.edu.au/copyright-matters) for a copyright licence." align="center" color="success" %}
 
 ### Internal Resources
+
 * Workshops on how to use git are available through [Hacky Hour as Software Carpentry Griffith](https://hackyhourgriffith.wordpress.com/events/soft-carp/)
 ---
 ### External Resources
+
 * [Reproducible research in Git ](https://nbis-reproducible-research.readthedocs.io/en/latest/git/)
 * [What is git](https://opensource.com/resources/what-is-git)
 * [Reproducibility in SPSS](https://andrewpwheeler.wordpress.com/2012/03/20/making-a-reproducible-example-in-spss/)
 * [Learn Software Carpentry in Git](http://swcarpentry.github.io/git-novice)
 
-[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step4Automation)  |  [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step6CloudBackup) 
+[Previous]()|  [Home]() | [Next Page]() 

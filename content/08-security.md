@@ -36,9 +36,7 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 2. Use a [VPN (Virtual private network)](https://au.pcmag.com/vpn/138/the-best-vpn-services) whenever you’re not at work
 3. Keep your operating system and products up to date (especially your web browsers)
 * You can use [Qualsys Browser Check](https://browsercheck.qualys.com/) to confirm your browser is set securely
-* Look at Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) for more information
-
-4. Griffith provides [Symantec anti-virus](https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/software-download-service4) FREE for Griffith staff and students.{% endcapture %}{% include card.html header="Advanced" text=text %}
+* Look at Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) for more information.{% endcapture %}{% include card.html header="Advanced" text=text %}
  
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step6CloudBackup)  |  [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId)

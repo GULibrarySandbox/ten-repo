@@ -31,7 +31,7 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 2. Enable [multifactor authentication (MFA)](https://support.microsoft.com/en-us/topic/what-is-multifactor-authentication-e5e39437-121c-be60-d123-eda06bddf661){% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-1. Is your lab/office encrypted?  Note: The boss's computer is usually the most insecure {% include icon.html icon='emoji-smile-fill' %}
+1. Is your lab/office encrypted?  Note: The boss's computer is usually the most insecure {% include icon.html icon='emoji-smile' %}. Organise for the whole team's computers to be encrypted.
 2. Use a [VPN (Virtual private network)](https://au.pcmag.com/vpn/138/the-best-vpn-services) whenever you’re not at work
 3. Keep your operating system and products up to date (especially your web browsers)
 * You can use [Qualsys Browser Check](https://browsercheck.qualys.com/) to confirm your browser is set securely

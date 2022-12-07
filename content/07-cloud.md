@@ -33,7 +33,7 @@ Research space has unlimited storage. Initially, you are provided 5GB of space, 
 
 For long term storage and backup of data. The Research Vault is suited to store safe copy of your raw data or the research of your completed PhD student who is leaving the university.
 
-#### Unure which option is best? [Compare the storage features](https://research-storage.griffith.edu.au/compare).
+##### Unure which option is best? [Compare the storage features](https://research-storage.griffith.edu.au/compare).
 
 {% capture text %}Back up your data to the cloud in [Research Storage](https://research-storage.griffith.edu.au/) - if you need help selecting the right storage solution for your context, talk to the [Library](https://www.griffith.edu.au/library/contact) or [eResearch Services](https://www.griffith.edu.au/eresearch-services#contact).{% endcapture %}{% include card.html header="Beginner" text=text %}
 

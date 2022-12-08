@@ -63,13 +63,11 @@ The examples below show how DOIs connect scholarly publications with supporting 
 {% include figure.html img="2022_BrownDOI.PNG" alt="DOIs linking Chris Brown's research" caption="DOIs linking Chris Brown's research" width="100%" %}
 Chris's dataset is a large collecttion which has been analysed for multiple projects and articles. The dataset is available for validation of his work and also reuse by other researchers, with a citation and DOI created by GRO. Chris also shares the supporting code via [Github](https://github.com/cbrown5/fishscape/blob/master/data-raw/fish-hab-db_v1.csv).
 * Data Citation: Brown, C.J. & Broadley, A.. (2017). Fishscape. [https://doi.org/10.25904/1912/4017](https://doi.org/10.25904/1912/4017)
-* Article Citation: Brown, C. J., Broadley, A., Adame, M. F., Branch, T. A., Turschwell, M. P., & Connolly, R. M. (2019). The assessment of fishery status depends on fish habitats. Fish and Fisheries, 20(1), 1-14. [https://doi.org/10.1111/faf.12318}(https://doi.org/10.1111/faf.12318)
+* Article Citation: Brown, C. J., Broadley, A., Adame, M. F., Branch, T. A., Turschwell, M. P., & Connolly, R. M. (2019). The assessment of fishery status depends on fish habitats. Fish and Fisheries, 20(1), 1-14. [https://doi.org/10.1111/faf.12318](https://doi.org/10.1111/faf.12318)
 
-{% include figure.html img="2022_PaynterDOI.PNG" alt="DOIs linking Jessica Paynter's research" caption="DOIs linking Jessica Paynter's research" width="100%" %}{% endcapture %}{% include card.html header="DOIs" text=text %}
-
+{% include figure.html img="2022_PaynterDOI.PNG" alt="DOIs linking Jessica Paynter's research" caption="DOIs linking Jessica Paynter's research" width="100%" %}
 Jessica's research was published in a journal which could also publish and mint a DOI for her supporting dataset.
-* Data and Article Citation: Paynter, J., Luskin-Saxby, S., Keen, D., Fordyce, K., Frost, G., Imms, C., Miller, S., Trembath, D., Tucker, M., & Ecker, U.. (2019). Evaluation of a template for countering misinformation—Real-world Autism treatment myth debunking (Version 1). PLOS ONE. [https://doi.org/10.1371/journal.pone.0210746](https://doi.org/10.1371/journal.pone.0210746)
-
+* Data and Article Citation: Paynter, J., Luskin-Saxby, S., Keen, D., Fordyce, K., Frost, G., Imms, C., Miller, S., Trembath, D., Tucker, M., & Ecker, U.. (2019). Evaluation of a template for countering misinformation—Real-world Autism treatment myth debunking (Version 1). PLOS ONE. [https://doi.org/10.1371/journal.pone.0210746](https://doi.org/10.1371/journal.pone.0210746){% endcapture %}{% include card.html header="DOIs" text=text %}
 
 
 {% capture text %}

@@ -11,26 +11,30 @@ At the end of your project, make your research data [findable, accessible, inter
 
 #### Identifiers
 
-Examples: Serial numbers, URLs. 
+An identifier is any label used to name an item (whether digital or physical).  URLs and serial numbers are an examples of digital identifiers. 
 
-Add image
+Personal names are also identifiers, but are not necessarily unique as you may share the same name with many other researchers around the world.
 
-An identifier is any label used to name an item uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers and personal names
+{% include figure.html img="Barcodes.png" alt="Serial numbers & URLS" caption="Serial numbers & URLS" width="50%" %}
 
-Management is NOT guaranteed:
+Management of these digital identifiers is NOT guaranteed:
 
 * links disappear
 * websites shut down
 * product support ends
 
 #### Persistant Identifiers
-Examples: [ORCID](https://orcid.org/), [Digital Object Identifier (DOI)](https://www.doi.org/)
+
+Persistant identifiers are a long-lasting unique digital reference to a webpage, digital object, even a person.
+
+Examples include [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and [Digital Object Identifier (DOI)](https://www.doi.org/).
 
 Management is guaranteed:
 
 * links are kept up to date over a defined time period
 * links will find the object, even when websites change over time.
 
+---
 
 #### A Digital Object Identifier (DOI) is a unique alphanumeric string that:
 

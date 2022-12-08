@@ -57,7 +57,13 @@ Watch this short video from Research Data Netherlands explaining Persistant iden
 * DOIs can be created for Datasets and associated outputs (e.g. grey literature, workflows, algorithms, software etc.) - DOIs for data are equivalent to DOIs for other scholarly publications
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)
 * Resolvable DOIs provide easy online access to research data for discovery, attribution and reuse
-* Dataset DOIs can be linked using standard metadata schemas to other research output, increasing opportunities to reproduce research.{% endcapture %}{% include card.html header="DOIs" text=text %}
+* Dataset DOIs can be linked using standard metadata schemas to other research output, increasing opportunities to reproduce research.
+
+The examples below show how DOIs connect scholarly publications with supporting datasets.
+
+{% include figure.html img="2022_BrownDOI.PNG" alt="DOIs linking Chris Brown's research" caption="DOIs linking Chris Brown's research" width="50%" %}
+
+{% include figure.html img="2022_PaynterDOI.PNG" alt="DOIs linking Jessica Paynter's research" caption="DOIs linking Jessica Paynter's research" width="50%" %}{% endcapture %}{% include card.html header="DOIs" text=text %}
 
 {% capture text %}
 Ensure data you publish or associate with a publication has a DOI. 

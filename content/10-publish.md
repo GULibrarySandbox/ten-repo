@@ -61,9 +61,9 @@ Watch this short video from Research Data Netherlands explaining Persistant iden
 
 The examples below show how DOIs connect scholarly publications with supporting datasets.
 
-{% include figure.html img="2022_BrownDOI.PNG" alt="DOIs linking Chris Brown's research" caption="DOIs linking Chris Brown's research" width="50%" %}
+{% include figure.html img="2022_BrownDOI.PNG" alt="DOIs linking Chris Brown's research" caption="DOIs linking Chris Brown's research" width="100%" %}
 
-{% include figure.html img="2022_PaynterDOI.PNG" alt="DOIs linking Jessica Paynter's research" caption="DOIs linking Jessica Paynter's research" width="50%" %}{% endcapture %}{% include card.html header="DOIs" text=text %}
+{% include figure.html img="2022_PaynterDOI.PNG" alt="DOIs linking Jessica Paynter's research" caption="DOIs linking Jessica Paynter's research" width="100%" %}{% endcapture %}{% include card.html header="DOIs" text=text %}
 
 {% capture text %}
 Ensure data you publish or associate with a publication has a DOI. 

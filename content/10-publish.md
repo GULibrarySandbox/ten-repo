@@ -7,8 +7,7 @@ nav: Publish
 
 At the end of your project, make your research data [findable, accessible, interoperable and re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) using a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
 
-### Identifiers vs Persistant Identifiers
-
+{% capture text %}
 #### Identifiers
 
 An identifier is any label used to name an item (whether digital or physical).  URLs and serial numbers are an examples of digital identifiers. 
@@ -23,20 +22,18 @@ Management of these digital identifiers is NOT guaranteed:
 * websites shut down
 * product support ends
 
-#### Persistant Identifiers
+#### Persistent Identifiers
 
-Persistant identifiers are a long-lasting unique digital reference to a webpage, digital object, even a person.
+Persistent identifiers are a long-lasting unique digital reference to a webpage, digital object, even a person.
 
 Examples include [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and [Digital Object Identifier (DOI)](https://www.doi.org/).
 
 Management is guaranteed:
 
 * links are kept up to date over a defined time period
-* links will find the object, even when websites change over time.
+* links will find the object, even when websites change over time.{% endcapture %}{% include card.html header="Identifiers vs Persistent Identifiers" text=text %}
 
----
-
-
+{% capture text %}
 #### A Digital Object Identifier (DOI) is a unique alphanumeric string that:
 
 * is assigned by either a publisher, organisation or agency 
@@ -60,7 +57,7 @@ Watch this short video from Research Data Netherlands explaining Persistant iden
 * DOIs can be created for Datasets and associated outputs (e.g. grey literature, workflows, algorithms, software etc.) - DOIs for data are equivalent to DOIs for other scholarly publications
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)
 * Resolvable DOIs provide easy online access to research data for discovery, attribution and reuse
-* Dataset DOIs can be linked using standard metadata schemas to other research output, increasing opportunities to reproduce research
+* Dataset DOIs can be linked using standard metadata schemas to other research output, increasing opportunities to reproduce research.{% endcapture %}{% include card.html header="DOIs" text=text %}
 
 {% capture text %}
 Ensure data you publish or associate with a publication has a DOI. 

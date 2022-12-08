@@ -5,7 +5,7 @@ nav: Publish
 
 {% include figure.html img="2022-11-29_14-50-46.jpg" alt="Image representing identification" caption="Use persistant identifiers to make your research discoverable" width="75%" %}
 
-At the end of your project, make your research data [findable, accessible, interoperable and re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) using a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
+At the end of your project, make your research data [findable, accessible, interoperable and re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) by publishing it with a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
 
 {% capture text %}
 #### Identifiers
@@ -13,9 +13,7 @@ At the end of your project, make your research data [findable, accessible, inter
 An identifier is any label used to name an item (whether digital or physical).  URLs and serial numbers are an examples of digital identifiers. 
 
 Personal names are also identifiers, but are not necessarily unique as you may share the same name with many other researchers around the world.
-
-{% include figure.html img="Barcodes.png" alt="Serial numbers & URLS" caption="Serial numbers & URLS" width="50%" %}
-
+{% include figure.html img="Barcodes.png" alt="Serial numbers & URLS" caption="Serial numbers & URLS" width="25%" %}
 Management of these digital identifiers is NOT guaranteed:
 
 * links disappear
@@ -26,7 +24,7 @@ Management of these digital identifiers is NOT guaranteed:
 
 Persistent identifiers are a long-lasting unique digital reference to a webpage, digital object, even a person.
 
-Examples include [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and [Digital Object Identifier (DOI)](https://www.doi.org/).
+Examples include [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and [Digital Object Identifiers (DOI)](https://www.doi.org/).
 
 Management is guaranteed:
 

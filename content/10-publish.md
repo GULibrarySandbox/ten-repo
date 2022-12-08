@@ -69,14 +69,14 @@ How?
 * Contact your Library staff for guidance.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
-* Learn more about how DOIs ["and their use in citations of both original datasets and derivative sets used in new research allows for the tracking and quantitative measuring of not only publication impact, but data-specific impact."](https://www.frontiersin.org/articles/10.3389/fninf.2016.00034/full) from Honor et. al.
+* Learn more about how DOIs [and their use in data citations enables tracking and quantitative measuring of publication impact and data impact.](https://www.frontiersin.org/articles/10.3389/fninf.2016.00034/full) from Honor et. al.
 * Read the [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/).{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-* Learn more about the [ARDC's policy supporting PiDs](https://ardc.edu.au/resource/ardc-persistent-identifiers-policy/) to improve tracking of research impact, contribute to research integrity and enable research innovation..{% endcapture %}{% include card.html header="Advanced" text=text %}
+* Learn more about the [ARDC's policy supporting PiDs](https://ardc.edu.au/resource/ardc-persistent-identifiers-policy/) to improve tracking of research impact, contribute to research integrity and enable research innovation.{% endcapture %}{% include card.html header="Advanced" text=text %}
 
 ##### Internal Resources
-* Contact the Library Technology Services Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au) for advice on how to obtain a DOI upon project completion.
+* Contact the Library Repository Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au) for advice on how to obtain a DOI for your data upon project completion.
 
 ##### External Resources
 * [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/)

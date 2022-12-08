@@ -24,7 +24,7 @@ Management is NOT guaranteed:
 * product support ends
 
 #### Persistant Identifiers
-Examples: [ORCID](https://orcid.org/), [Digital Object Identifier](https://www.doi.org/)
+Examples: [ORCID](https://orcid.org/), [Digital Object Identifier (DOI)](https://www.doi.org/)
 
 Management is guaranteed:
 
@@ -71,13 +71,13 @@ How?
 * Read the [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/).{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-* Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes).{% endcapture %}{% include card.html header="Advanced" text=text %}
+* Learn more about the [ARDC's policy supporting PiDs](https://ardc.edu.au/resource/ardc-persistent-identifiers-policy/) to improve tracking of research impact, contribute to research integrity and enable research innovation..{% endcapture %}{% include card.html header="Advanced" text=text %}
 
 ##### Internal Resources
 * Contact the Library Technology Services Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au) for advice on how to obtain a DOI upon project completion.
 
 ##### External Resources
-* ANDS/ARDC - [Citation and Identifiers](https://www.ands.org.au/working-with-data/citation-and-identifiers)
+* [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/)
 * [DOI system for research data](https://www.ands.org.au/guides/doi)
 * Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data citation in neuroimaging: Proposed best practices for data identification and attribution. Frontiers in neuroinformatics, 10, 34.[https://doi.org/10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034)
 

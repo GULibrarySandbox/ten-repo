@@ -27,9 +27,9 @@ Any identifiers (name, date of birth, address or geospatial locations etc) shoul
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mln9T52mwj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### Australian practical guidance for de-identification (ARDC)
-*Australian Research Data Commons (ARDC)* formerly known as Australian National Data Service (ANDS) has an excellent guide on De-identification.  The [De-identification Guide](https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
+*Australian Research Data Commons (ARDC)* has an excellent guide on De-identification.  The [De-identification Guide](https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
 
-Here are examples of practical guidelines available nationally 
+Here are examples of practical guidelines available nationally:
 
 * The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a [‘De-identification Decision Making Framework’](https://www.oaic.gov.au/privacy/guidance-and-advice/de-identification-decision-making-framework) which is a “practical guide to de-identification, focussing on operational advice”.  The guide will assist organisations that handle personal information to de-identify their data effectively. 
 
@@ -57,7 +57,7 @@ Data may often need to be identifiable during the process of research. If data i
 * Taking reasonable actions to prevent the inadvertent disclosure, release or loss of sensitive personal information.
 
 ###### Safely sharing sensitive data guide (ARDC)
-* The ARDC's [Idenditifiable Data](https://ardc.edu.au/resource/identifiable-data/) Collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets.  
+* The ARDC's [Idenditifiable Data](https://ardc.edu.au/resource/identifiable-data/) collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets.  
 
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step7CompSecurity) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step9Identifiers)

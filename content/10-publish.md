@@ -36,6 +36,7 @@ Management is guaranteed:
 
 ---
 
+
 #### A Digital Object Identifier (DOI) is a unique alphanumeric string that:
 
 * is assigned by either a publisher, organisation or agency 
@@ -83,6 +84,6 @@ How?
 ##### External Resources
 * [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/)
 * [DOI system for research data](https://www.ands.org.au/guides/doi)
-* Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data citation in neuroimaging: Proposed best practices for data identification and attribution. Frontiers in neuroinformatics, 10, 34.[https://doi.org/10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034)
+* Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data citation in neuroimaging: Proposed best practices for data identification and attribution. Frontiers in neuroinformatics, 10, 34. [https://doi.org/10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034)
 
-[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) 
+[Previous]() | [Home]() 

@@ -39,34 +39,39 @@ Management is guaranteed:
 * provides a **persistent** link to its location or record on the internet and links to other related research output
 * facilitates citation and citation metrics 
 
+{% capture text %}
 A DOI might look something like this: [http://dx.doi.org/10.4225/01/4F8E15A1B4D89](http://dx.doi.org/10.4225/01/4F8E15A1B4D89)
 
-OR
-
-Like this: [https://research-repository.griffith.edu.au/handle/10072/394379](https://research-repository.griffith.edu.au/handle/10072/394379)
-
-The second example of a DOI or *Persistent Identifier* is from [Griffiths' Research Data Repository](https://research-repository.griffith.edu.au/).
+Other persistent identifies may look like this: [https://research-repository.griffith.edu.au/handle/10072/394379](https://research-repository.griffith.edu.au/handle/10072/394379), an example from [Griffiths' Research Data Repository](https://research-repository.griffith.edu.au/).{% endcapture %}{% include alert.html text=text color=warning %}
 
 #### DOIs uniquely identify research data and support citation and citation metrics.
 
-Video: Persistant identifiers and data citation explained (4:52) 
+Watch this short video from Research Data Netherlands explaining Persistant identifiers and data citation (4:52) 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Key messages:
-* DOIs are a persistent identifier and as such carry expectations of curation, persistent access and rich metadata
-* DOIs can be created for DATA SETS and associated outputs (eg grey literature, workflows, algorithms, software etc) - DOIs for data are equivalent with DOIs for other scholarly publications
+* DOIs are the globally accepted identification standard for digital scholarly publications, detailing the necessary metadata to support credit and attribution.
+* DOIs can be created for Datasets and associated outputs (e.g. grey literature, workflows, algorithms, software etc.) - DOIs for data are equivalent to DOIs for other scholarly publications
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)
 * Resolvable DOIs provide easy online access to research data for discovery, attribution and reuse
+* Dataset DOIs can be linked using standard metadata schemas to other research output, increasing opportunities to reproduce research
 
-#### Beginner
-Ensure data you associate with a publication has a DOI. Library staff are the best people to talk to about how to do this.
+{% capture text %}
+Ensure data you publish or associate with a publication has a DOI. 
 
-#### Intermediate
-* Learn more about how your DOI can potentially increase your citation rates. 
-* Read the [ANDS Data Citation Guide](https://www.ands.org.au/guides/data-citation-awareness).
+How?
+* Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. Examples include:
+  * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
+  * [re3data.org](https://www.re3data.org/) registry of discipline and other data repositories
+* Contact your Library staff for guidance.{% endcapture %}{% include card.html header="First steps" text=text %}
 
-#### Advanced
-* Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes)
+{% capture text %}
+* Learn more about how DOIs ["and their use in citations of both original datasets and derivative sets used in new research allows for the tracking and quantitative measuring of not only publication impact, but data-specific impact."](https://www.frontiersin.org/articles/10.3389/fninf.2016.00034/full) from Honor et. al.
+* Read the [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/).{% endcapture %}{% include card.html header="Intermediate" text=text %}
+
+{% capture text %}
+* Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes).{% endcapture %}{% include card.html header="Advanced" text=text %}
 
 ##### Internal Resources
 * Contact the Library Technology Services Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au) for advice on how to obtain a DOI upon project completion.
@@ -74,5 +79,6 @@ Ensure data you associate with a publication has a DOI. Library staff are the be
 ##### External Resources
 * ANDS/ARDC - [Citation and Identifiers](https://www.ands.org.au/working-with-data/citation-and-identifiers)
 * [DOI system for research data](https://www.ands.org.au/guides/doi)
+* Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data citation in neuroimaging: Proposed best practices for data identification and attribution. Frontiers in neuroinformatics, 10, 34.[https://doi.org/10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034)
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) 

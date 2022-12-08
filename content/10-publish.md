@@ -1,5 +1,5 @@
 ---
-title: Step 10 - Publish with Persistent Identifiers 
+title: Step 10 - Publish Data with Persistent Identifiers 
 nav: Publish
 ---
 

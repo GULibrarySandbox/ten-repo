@@ -1,43 +1,43 @@
 ---
-title: Step 10 - Publish with Persistent Identifers 
+title: Step 10 - Publish with Persistent Identifiers 
 nav: Publish
 ---
 
-### Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
-
 {% include figure.html img="2022-11-29_14-50-46.jpg" alt="Image representing identification" caption="Use persistant identifiers to make your research discoverable" width="75%" %}
 
-At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
+At the end of your project, make your research data [findable, accessible, interoperable and re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) using a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
 
-##### Identifiers vs Persistant Identifiers
+### Identifiers vs Persistant Identifiers
 
-###### Identifiers
+#### Identifiers
 
 Examples: Serial numbers, URLs. 
 
+Add image
+
 An identifier is any label used to name an item uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers and personal names
 
-Management NOT guaranteed:
+Management is NOT guaranteed:
 
 * links disappear
 * websites shut down
 * product support ends
 
-###### Persistant Identifiers
+#### Persistant Identifiers
 Examples: [ORCID](https://orcid.org/), [Digital Object Identifier](https://www.doi.org/)
 
-Management guaranteed:
+Management is guaranteed:
 
-* links kept up to date over a defined time period.
+* links are kept up to date over a defined time period
 * links will find the object, even when websites change over time.
 
 
-###### A Digital Object Identifier (DOI) is a unique alphanumeric string that is:
+#### A Digital Object Identifier (DOI) is a unique alphanumeric string that:
 
-* assigned by either a publisher, organisation or agency 
-* identifiing content
-* providing a **persistent** link to its location or record on the internet
-* facilitate citation and citation metrics 
+* is assigned by either a publisher, organisation or agency 
+* identifies content
+* provides a **persistent** link to its location or record on the internet and links to other related research output
+* facilitates citation and citation metrics 
 
 A DOI might look something like this: [http://dx.doi.org/10.4225/01/4F8E15A1B4D89](http://dx.doi.org/10.4225/01/4F8E15A1B4D89)
 
@@ -47,12 +47,12 @@ Like this: [https://research-repository.griffith.edu.au/handle/10072/394379](htt
 
 The second example of a DOI or *Persistent Identifier* is from [Griffiths' Research Data Repository](https://research-repository.griffith.edu.au/).
 
-###### DOIs uniquely identify research data and support citation and citation metrics.
+#### DOIs uniquely identify research data and support citation and citation metrics.
 
 Video: Persistant identifiers and data citation explained (4:52) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###### Key messages:
+#### Key messages:
 * DOIs are a persistent identifier and as such carry expectations of curation, persistent access and rich metadata
 * DOIs can be created for DATA SETS and associated outputs (eg grey literature, workflows, algorithms, software etc) - DOIs for data are equivalent with DOIs for other scholarly publications
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)

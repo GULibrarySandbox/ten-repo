@@ -2,6 +2,7 @@
 title: Step 3 - Naming Conventions
 nav: Naming
 ---
+2022_NamingImage.JPG
 
 ### What is a File Name? 
 File names are names that you create when saving a new file, and which are listed in the directory of a folder. 

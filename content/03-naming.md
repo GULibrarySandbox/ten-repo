@@ -2,7 +2,7 @@
 title: Step 3 - Naming Conventions
 nav: Naming
 ---
-2022_NamingImage.JPG
+{% include figure.html img="2022_NamingImage.JPG" alt="Image representing writing" caption="Naming files consistently will save time and effort later" width="75%" %} 
 
 ### What is a File Name? 
 File names are names that you create when saving a new file, and which are listed in the directory of a folder. 

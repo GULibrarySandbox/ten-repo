@@ -80,6 +80,7 @@ How?
 * Contact your Library staff for guidance.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
+* Cite your dataset in the references of the articles it supports.  This is the best way for others to find and access your dataset, for reproducibility or reuse with attribution in their research.
 * Learn more about how DOIs [and their use in data citations enables tracking and quantitative measuring of publication impact and data impact.](https://www.frontiersin.org/articles/10.3389/fninf.2016.00034/full) from Honor et. al.
 * Read the [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/).{% endcapture %}{% include card.html header="Intermediate" text=text %}
 

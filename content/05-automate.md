@@ -3,7 +3,7 @@ title: Step 5 - Automation
 nav: Automate
 ---
 
-2022_AutoImage.JPG
+{% include figure.html img="2022_AutoImage.JPG" alt="Image representing automation" caption="Automating repetitive data tasks can reduce errors." width="75%" %}
 
 ## Can you automate any repetitive tasks?
 

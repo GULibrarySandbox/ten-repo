@@ -2,6 +2,7 @@
 title: Step 6 - Version Control
 nav: Version
 ---
+{% include figure.html img="2022_VersionsImage.JPG" alt="Image representing versioning with numbers" caption="Version allows you to keep track of changes to your data." width="75%" %}
 
 A version control system allows users to keep track of changes in your Data or Process.
 

@@ -21,7 +21,7 @@ If implemented early and consistently, a standardised system or convention for n
 - identify obsolete or duplicate records
 - avoid backlogs or project delays by presenting a clear and real-time display of the current or completed work.
 
-{% include alert.html text="Former PhD student and subsequent founder of the Figshare platform, Mark Hahnel, typified a common challenge: 
+{% include alert.html text="Former PhD student and subsequent founder of the Figshare platform, Mark Hahnel, highlights a common challenge: 
 
 *‘During my PhD I was never good at managing my research data. I had so many different file names for my data that I always struggled to find the correct file quickly and easily when it was requested. My former Principle Invesitgator was so horrified upon seeing the state of my data organisation that she held an emergency lab book meeting with the rest of my group when l was leaving’*.  
 

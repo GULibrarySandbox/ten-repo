@@ -3,6 +3,8 @@ title: Step 1 - Data quality
 nav: Quality
 ---
 
+{% include figure.html img="TidyImage.JPG" alt="Image representing tidy data" caption="Arrange your data using Tidy Data principles" width="75" %}
+
 ### "Tidy data" principles
 
 Are your datasets future-proof? 

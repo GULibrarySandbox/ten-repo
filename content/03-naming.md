@@ -60,21 +60,17 @@ See this example below which uses:
 {% capture text %}
 Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
 
-`/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   space   tab   newline`
+`/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   spaces   tabs   newlines`
 
 Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm){% endcapture %}{% include alert.html text=text color=warning %}
 
 {% capture text %}
-Create an easy naming convention for your data files and documents. 
-
-Any dates are best stored with YYYYMMDD as file can be re-ordered chronologically.
-
-Avoid spaces in your file names as some applications do not support it.
-
-Document your file naming convention in a Readme.txt file and save it with your files.{% endcapture %}{% include card.html header="First steps" text=text %}
+* Create an easy naming convention for your data files and documents, using the guidance above.
+* Dates are best stored with YYYYMMDD as files can be re-ordered chronologically.
+* Document your file naming convention in a Readme.txt file and save it with your files.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
-Read and follow Edinburgh University's simple [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).{% endcapture %}{% include card.html header="Intermediate steps" text=text %}
+For more file naming options, read and follow Edinburgh University's simple [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).{% endcapture %}{% include card.html header="Intermediate steps" text=text %}
 
 {% capture text %}
 Do you have a policy in your team around naming conventions? If not, this is a great way of discussing the priorities of the research data.{% endcapture %}{% include card.html header="Advanced steps" text=text %}

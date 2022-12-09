@@ -20,16 +20,18 @@ To develop a logical structure for your team, consider the following:
 * Backup – ensure folders and files are backed up and retrievable in the event of a disaster. Griffith, like most universities, has safe storage solutions.
 * Clean up and archive folders and files post project.
 
+The example below includes folders for data, documentation, publications and more.
+{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="40%" %}
 {% capture text %}
 Pick a dataset and illustrate how you currently organise your files.
 (For the artists: Draw a picture that describes your current approach to file organisation)  
-See if you can devise a better folder naming convention or note one or two improvements you could make to how you arrange your files.
 
-There are some good folder template shapes around. [Here's one you are welcome to download and use](https://github.com/guereslib/MyResearchProjects/archive/master.zip) (double check with Amanda who created this?)
+Try devising a folder naming convention or note one or two improvements you could make to how you arrange your files.
 
-Or another you could try out from researcher Nikola Vukovic [http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).
-
-Check out this example [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL) from University of Sydney.{% endcapture %}{% include card.html header="First steps" text=text %}
+Try out one of these downloadable templates below:
+* [Here's one you are welcome to download and use](https://github.com/guereslib/MyResearchProjects/archive/master.zip) (double check with Amanda who created this?)
+* A great project folder template for MACOSX or Windows from researcher Nikola Vukovic [http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).
+* University of Sydney [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL).{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="40%" %}
 

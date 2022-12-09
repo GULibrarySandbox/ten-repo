@@ -57,7 +57,7 @@ Learn how to create a code repository in Github with their [Hello world tutorial
 Or you could explore how research projects with published data have created documentation.
 Check out examples of documentation or readme files in these Australian researcher involved projects:
 * Dinusha, B., Howell, L., Silbert, M., Daraganova, G. (2021). Ten to Men: The Australian Longitudinal Study on Male Health, Release 3 (Waves 1-3),, ADA Dataverse, V4. (Dataset). [doi:10.26193/JDE1TD](doi:10.26193/JDE1TD)
-* Adam M. Komarek(2021). Replication Data for the study on income, consumer preferences, and the future of livestock-derived food demand. Dataverse. Data Collection.[https://doi.org/10.7910/DVN/ZPWQBB](https://doi.org/10.7910/DVN/ZPWQBB){% endcapture %}{% include card.html header="Advanced" text=text %}
+* Komarek, A., M. (2021). Replication Data for the study on income, consumer preferences, and the future of livestock-derived food demand. Dataverse. (Data Collection). [https://doi.org/10.7910/DVN/ZPWQBB](https://doi.org/10.7910/DVN/ZPWQBB){% endcapture %}{% include card.html header="Advanced" text=text %}
 
 
 ### Internal Resources

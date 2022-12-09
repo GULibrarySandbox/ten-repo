@@ -3,23 +3,23 @@ title: Step 3 - Naming Conventions
 nav: Naming
 ---
 
-If implemented early and consistently, a standardised system for naming files can:
-- make file naming easier
-- facilitate access, retrieval and storage of files
-- make it faster to navigate files
-- guard against misplacing or losing files
-- assist with version control
-- identify obsolete or duplicate records
+## What is a File Name? 
+File names are names that you create when saving a new file, and which are listed in the directory of a folder. 
 
 ## What is a File Naming Convention?
 
-A File Naming Convention (FNC) is a system for naming your all your files, where the filename includes a description of the contents and the context. This is a system that is best established as early as possible; ideally before collection research data.
+A File Naming Convention (FNC) is a system for naming your all your files, where the filename includes a description of the contents and the context. This is a system that is best established as early as possible; ideally before collection research data. The FNC is then used each time a new file is created for your research.
 
-## What is a File Name? 
-File names are names that you create when saving a new file, and which are listed in the directory of a folder. The FNC is used at that stage with each file that forms any part of your research.
+## FNC benefits
 
-### What are the benefits of using a file naming convention? 
-Naming files consistently, logically and in a predictable manner will prevent against unorganised files, misplaced or lost data.  It can also prevent backlogs or project delays by presenting a clear and real-time display of the current or completed work.
+If implemented early and consistently, a standardised system or convention for naming files can:
+- make file naming easier
+- facilitate access, retrieval and storage of files
+- make it faster to navigate files 
+- guard against misplacing or losing files
+- assist with version control
+- identify obsolete or duplicate records
+- avoid backlogs or project delays by presenting a clear and real-time display of the current or completed work.
 
 {% include alert.html text="Former PhD student and subsequent founder of the Figshare platform, Mark Hahnel, typified a common challenge: 
 
@@ -36,14 +36,14 @@ Your research team should agree on the following elements of a file name prior t
 * Order - confirm which element should go first, so that files on the same theme are listed together and can therefore be found easily
 * Numbers - specify the amount of digits that will be used in numbering so that files are listed numerically e.g. 01, 002, etc.
 
-You can also:
+Consider the following recommendations:
 
 * Capitalise the first letter of every new word with no intervening spaces 
-i.e. `PAHospitalAdmissionICU_2010_2020_Raw.csv`	
+  *i.e. `PAHospitalAdmissionICU_2010_2020_Raw.csv`	
 * Keep filenames a reasonable length and keep file name information (metadata) separated using upper and lower case 
-i.e.  `Image02_PacificOcean_20200621.jpg`
+    i.e.  `Image02_PacificOcean_20200621.jpg`
 * Use logical order for sequential number with padded zeros
-i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
+    i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
 * For Version numbers consider  `V1, V2` and multiple versions `V1, V2, V2.1` etc.
 * Document your FNC in a `ReadMe.txt` or other documentation file in main shared project folder. It can be useful for staff orientation.
 

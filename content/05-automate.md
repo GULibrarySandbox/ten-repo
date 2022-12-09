@@ -10,7 +10,7 @@ Often, tasks that need to be done over and over again by a human can be opportun
 Let's thing about the repetitive tasks that you could automate - do you always rename files the same way? Do you manually copy files across?
 
 Ways you can automate things:
-* Spreadsheet Macros and formulas
+* Spreadsheet Macros and formulas - [Using macros in microsoft excel to facilitate cleaning of research data](https://doi.org/10.1080/20009666.2021.1954282) has instructions on how.
 * MacOS - Automator [find out how to automate 10 useful things](https://www.idownloadblog.com/2018/11/21/cool-things-mac-automator-tutorial/)
 * Win 10 - Task scheduler [learn how with this blog post](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)
 * Microsoft flow or Google script{% endcapture %}{% include card.html header="First steps" text=text %}

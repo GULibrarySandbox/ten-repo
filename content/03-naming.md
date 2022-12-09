@@ -3,14 +3,14 @@ title: Step 3 - Naming Conventions
 nav: Naming
 ---
 
-## What is a File Name? 
+### What is a File Name? 
 File names are names that you create when saving a new file, and which are listed in the directory of a folder. 
 
-## What is a File Naming Convention?
+### What is a File Naming Convention?
 
 A File Naming Convention (FNC) is a system for naming your all your files, where the filename includes a description of the contents and the context. This is a system that is best established as early as possible; ideally before collection research data. The FNC is then used each time a new file is created for your research.
 
-## FNC benefits
+### Benefits
 
 If implemented early and consistently, a standardised system or convention for naming files can:
 - make file naming easier

@@ -51,13 +51,13 @@ This can be anything from a downloaded function list from SPSS/NVIVO to the code
 You could also try to Sync the document automatically to the cloud with your data. (This needs a link to more information on how to do this){% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-Now that you've got a good head start, it's time to learn about Git Repositories and wikis for documenting
+Now that you've got a good head start, it's time to learn about Git Repositories and wikis for documenting. 
 Learn how to create a code repository in Github with their [Hello world tutorial](https://docs.github.com/en/get-started/quickstart/hello-world).
 
 Or you could explore how research projects with published data have created documentation.
-Check out examples of documentation or readme files in these Australian datasets:
+Check out examples of documentation or readme files in these Australian researcher involved projects:
 * Dinusha, B., Howell, L., Silbert, M., Daraganova, G. (2021). Ten to Men: The Australian Longitudinal Study on Male Health, Release 3 (Waves 1-3),, ADA Dataverse, V4. (Dataset). [doi:10.26193/JDE1TD](doi:10.26193/JDE1TD)
-* Smyth, A., Smee, E., Godfrey, S., Crowther, M., Phalen, D. (2014): Haematology of the Sleepy Lizard (Tiliqua rugosa) in Australia's cereal croplands, 2010. Version 1.0.0. Terrestrial Ecosystem Research Network. (Dataset). [https://doi.org/10.4227/05/537c5c5553f9e](https://doi.org/10.4227/05/537c5c5553f9e){% endcapture %}{% include card.html header="Advanced" text=text %}
+* Adam M. Komarek(2021). Replication Data for the study on income, consumer preferences, and the future of livestock-derived food demand. Dataverse. Data Collection.[https://doi.org/10.7910/DVN/ZPWQBB](https://doi.org/10.7910/DVN/ZPWQBB){% endcapture %}{% include card.html header="Advanced" text=text %}
 
 
 ### Internal Resources

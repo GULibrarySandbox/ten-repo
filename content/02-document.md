@@ -48,7 +48,7 @@ Once you have the basics in place from reading [How to start Documenting and mor
 
 This can be anything from a downloaded function list from SPSS/NVIVO to the code used to create it. 
 
-You could also try to Sync the document automatically to the cloud with your data. (**This needs a link to more information on how to do this**){% endcapture %}{% include card.html header="Intermediate" text=text %}
+You could also try to Sync the document automatically to the cloud with your data. (??This needs a link to more information on how to do this??){% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
 Now that you've got a good head start, it's time to learn about Git Repositories and wikis for documenting. 
@@ -61,7 +61,7 @@ Check out examples of documentation or readme files in these Australian research
 
 
 ### Internal Resources
-* **Wiki options at Griffith (??)**
+* ??Wiki options at Griffith??
 * [Sharepoint at Griffith](https://griffitheduau.sharepoint.com/sites/Productivity-Content/SitePages/SharePoint-Online.aspx)
 * [Research Space](https://research-storage.griffith.edu.au/)
 * Griffith's Gitlab wiki options - talk to [eResearch Support](https://www.griffith.edu.au/eresearch-services) or [Hacky Hour](https://www.griffith.edu.au/eresearch-services/hacky-hour)

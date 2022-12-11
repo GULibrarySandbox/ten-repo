@@ -18,7 +18,7 @@ The principles of **tidy data** developed by [Hadley Wickham](https://hadley.nz/
 - Each row is an observation
 - Each cell contains one value.
 
-By arranging all the variables of an observation along a single row, all elements about that observation are contained within a clearly delineated record: the single row. With all variables recorded in columns, these observations of a patient, a survey respondent, an event, a biological sample etc, are reliably linked to their subject.
+By arranging all the variables of an observation along a single row, all elements about that observation are contained within a clearly delineated record: the single row. With all variables recorded in columns, these observations of a patient, a survey respondent, an historical event, a biological sample etc, are reliably linked to their subject.
 
 Tidy data provides both the stability and the flexibility to reliably process and export data to any system; including running processes and modelling which later become desirable or significant for your research.  
 

@@ -40,7 +40,7 @@ Your research team should agree on the following elements of a file name prior t
 Consider the following recommendations:
 
 * Capitalise the first letter of every new word with no intervening spaces 
-  *i.e. `PAHospitalAdmissionICU_2010_2020_Raw.csv`	
+  * i.e. `PAHospitalAdmissionICU_2010_2020_Raw.csv`	
 * Keep filenames a reasonable length and keep file name information (metadata) separated using upper and lower case 
     i.e.  `Image02_PacificOcean_20200621.jpg`
 * Use logical order for sequential number with padded zeros

@@ -3,7 +3,7 @@ title: Step 4 - Folder Structures
 nav: Folders
 ---
 
-Having a standard folder structure can keep your files organised and save you time looking for data.  It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
+Using a standard folder structure can keep your files organised and save you time looking for data.  It can also help if you are sharing files with colleagues to have a standard place to put working data and documentation.
 
 Like files, folders can also follow a naming convention. By prefixing with numbers, you can force your files to be ordered by the steps in your workflow. Probably the simplest way to document your structure - for your future reference - is to add a “README” file - a text file outlining the contents of the folder. 
 
@@ -33,10 +33,8 @@ Try out one of these downloadable templates below:
 * A great project folder template for MACOSX or Windows from researcher Nikola Vukovic [http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).
 * University of Sydney [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL).{% endcapture %}{% include card.html header="First steps" text=text %}
 
-{% include figure.html img="2022_FolderStructureExample_1.JPG" alt="Folder structure example" caption="Folder structure example" width="40%" %}
-
 {% capture text %}
-Develop a procedure on folder structures for your team. You could create a template and put it in a downloadable location for them to get them started.
+Develop a procedure on folder structures for your team. You could create a template and put it in a shared location for them to copy and use.
 
 Use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research {% endcapture%}{% include card.html header="Advanced" text=text %}
 

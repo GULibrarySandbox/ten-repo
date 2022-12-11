@@ -42,9 +42,9 @@ Consider the following recommendations:
 * Capitalise the first letter of every new word with no intervening spaces 
   * i.e. `PAHospitalAdmissionICU_2010_2020_Raw.csv`	
 * Keep filenames a reasonable length and keep file name information (metadata) separated using upper and lower case 
-    i.e.  `Image02_PacificOcean_20200621.jpg`
+  * i.e.  `Image02_PacificOcean_20200621.jpg`
 * Use logical order for sequential number with padded zeros
-    i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
+  * i.e. instead of `1,2,3` use `001, 002, 003 or 01, 02, 03`
 * For Version numbers consider  `V1, V2` and multiple versions `V1, V2, V2.1` etc.
 * Document your FNC in a `ReadMe.txt` or other documentation file in main shared project folder. It can be useful for staff orientation.
 
@@ -59,7 +59,7 @@ See this example below which uses:
 * Applied example:    `20220621_MtGravatt_Humidity.CSV`
 
 {% capture text %}
-Some characters may have special meaning to software or the operating system of computers. Avoid using the following when you are naming files:
+Some characters may have special meaning to software or the operating system of the computer. Avoid using the following when you are naming files:
 
 `/   \   "   '   *   ;   -   ?   [   ]   (   )   ~   !   $   {   }   >   #   @   &   |   spaces   tabs   newlines`
 

@@ -27,18 +27,18 @@ If you are using random numbers in your research, save your random seed generato
 Copy your raw data to to a dedicated {% include icon.html icon='folder2-open' %} *RawData* folder in a cloud storage solution, such as [Research Drive](https://research-storage.griffith.edu.au/) for safe keeping.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
-If you are using a workflow program (Galaxy, KNIME, a virtual lab like [EcoCloud](https://ecocloud.org.au/) or [the Australian Text Analytics Platform - ATAP](https://www.atap.edu.au/), you can copy your workflow and save it as part of your documentation. Write the date that you ran the workflow if versions of the software are not available.{% endcapture %}{% include card.html header="Intermediate" text=text %}
+If you are using a workflow program like [Galaxy](https://usegalaxy.org.au/), [KNIME](https://www.knime.com/), or a virtual lab like [EcoCloud](https://ecocloud.org.au/) or [the Australian Text Analytics Platform - ATAP](https://www.atap.edu.au/), you can copy your workflow and save it as part of your documentation. Write the date that you ran the workflow if versions of the software are not available.{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
 If you are writing scripts (R/Python/Matlab etc), use [Git](https://git-scm.com/).
 
 Note:
-Griffith has a gitlab version you can use for private repositories. Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using.
+Griffith has a gitlab version you can use for private repositories. Also record the version of R/Python/Matlab, the operating system you are using and the version numbers of any library you are using.(??link to how to apply for gitlab??)
 
 If you are using the HPC, also record the version of any modules you used there.{% endcapture %}{% include card.html header="Advanced" text=text %}
 
 {% capture text %}
-If you’ve heard of Docker or Singularity and you are interested, come talk to [Griffith hacky hour/eResearch Services](https://www.griffith.edu.au/eresearch-services).{% endcapture %}{% include card.html header="SUPER Advanced" text=text %}
+If you’ve heard of [Docker](https://www.docker.com/) or [Singularity](https://docs.sylabs.io/guides/latest/user-guide/#) and you are interested, come talk to [Griffith hacky hour/eResearch Services](https://www.griffith.edu.au/eresearch-services).{% endcapture %}{% include card.html header="SUPER Advanced" text=text %}
 
 {% include alert.html text="Note: if you are going to *publish* a Git repository, contact [Griffith's Information Policy Officer](https://www.griffith.edu.au/copyright-matters) for a copyright licence advice." align="center" color="success" %}
 

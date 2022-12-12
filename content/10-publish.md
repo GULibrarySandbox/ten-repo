@@ -53,7 +53,7 @@ Watch this short video from Research Data Netherlands explaining Persistant iden
 
 #### Key messages:
 * DOIs are the globally accepted identification standard for digital scholarly publications, detailing the necessary metadata to support credit and attribution.
-* DOIs can be created for Datasets and associated outputs (e.g. grey literature, workflows, algorithms, software etc.) - DOIs for data are equivalent to DOIs for other scholarly publications
+* DOIs can be created for datasets and associated outputs (e.g. grey literature, workflows, algorithms, software etc.) - DOIs for data are equivalent to DOIs for other scholarly publications
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)
 * Resolvable DOIs provide easy online access to research data for discovery, attribution and reuse
 * Dataset DOIs can be linked using standard metadata schemas to other research output, increasing opportunities to reproduce research.
@@ -88,11 +88,10 @@ How?
 * Learn more about the [ARDC's policy supporting PiDs](https://ardc.edu.au/resource/ardc-persistent-identifiers-policy/) to improve tracking of research impact, contribute to research integrity and enable research innovation.{% endcapture %}{% include card.html header="Advanced" text=text %}
 
 ##### Internal Resources
-* Contact the Library Repository Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au) for advice on how to obtain a DOI for your data upon project completion.
+* Contact the Library Repository Team via the [online form](https://intranet.secure.griffith.edu.au/library/forms/help) for advice on how to obtain a DOI for your data upon project completion.
 
 ##### External Resources
 * [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/)
-* [DOI system for research data](https://www.ands.org.au/guides/doi)
 * Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data citation in neuroimaging: Proposed best practices for data identification and attribution. Frontiers in neuroinformatics, 10, 34. [https://doi.org/10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034)
 
 [Previous]() | [Home]() 

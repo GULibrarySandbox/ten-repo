@@ -4,7 +4,7 @@ nav: Version
 ---
 {% include figure.html img="2022_VersionsImage.JPG" alt="Image representing versioning with numbers" caption="Version allows you to keep track of changes to your data." width="75%" %}
 
-A version control system allows users to keep track of changes in your Data or Process.
+A version control system allows users to keep track of changes in your data or processes.
 
 Are you keeping track of any versions or logs made by the software in use?
 
@@ -13,7 +13,7 @@ Make sure you have a copy of every step you have completed and if possible, vers
 
 ### Never make alterations to your raw data files
 
-Instead, make a copy of the raw data files and keep them in a dedicated folder, somewhere safe like [Research Drive or for long-term storage Research Vault](https://research-storage.griffith.edu.au/). That way, if you need to redo your work or you find an error earlier in your workflow, you have an original baseline to start from.
+Instead, make a copy of the raw data files and keep them in a dedicated folder, somewhere safe like [Research Drive, or for long-term storage Research Vault](https://research-storage.griffith.edu.au/). That way, if you need to redo your work or you find an error earlier in your workflow, you have an original baseline to start from.
 
 ### Write down versions of analysis software
 
@@ -24,7 +24,7 @@ Write down the versions of analysis software (like SPSS or NVIVO etc) AND hardwa
 If you are using random numbers in your research, save your random seed generator number as part of your working data. This way, you can later reproduce your results.
 
 {% capture text %}
-Copy your raw data to to a dedicated *RawData* folder in a cloud storage solution, such as [Research Drive](https://research-storage.griffith.edu.au/) for safe keeping.{% endcapture %}{% include card.html header="First steps" text=text %}
+Copy your raw data to to a dedicated {% include icon.html icon='folder2-open' %} *RawData* folder in a cloud storage solution, such as [Research Drive](https://research-storage.griffith.edu.au/) for safe keeping.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
 If you are using a workflow program (Galaxy, KNIME, a virtual lab like [EcoCloud](https://ecocloud.org.au/) or [the Australian Text Analytics Platform - ATAP](https://www.atap.edu.au/), you can copy your workflow and save it as part of your documentation. Write the date that you ran the workflow if versions of the software are not available.{% endcapture %}{% include card.html header="Intermediate" text=text %}

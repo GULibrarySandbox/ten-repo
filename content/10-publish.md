@@ -22,11 +22,11 @@ Management of these digital identifiers is NOT guaranteed:
 
 #### Persistent Identifiers
 
-Persistent identifiers are a long-lasting unique digital reference to a webpage, digital object, even a person.
+A persistent identifier is long-lasting unique digital reference to a webpage, digital object, even a person.
 
 Examples include the [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and [Digital Object Identifiers (DOI)](https://www.doi.org/).
 
-Management IS guaranteed:
+Management of persistent identifiers IS guaranteed:
 
 * links are kept up to date over a defined time period
 * links will find the object, even when websites change.{% endcapture %}{% include card.html header="Identifiers vs Persistent Identifiers" text=text %}

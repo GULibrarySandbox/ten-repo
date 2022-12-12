@@ -7,19 +7,20 @@ nav: Automate
 
 ## Can you automate any repetitive tasks?
 
-Often, tasks that need to be done over and over again by a human can be opportunities for human error to sneak in. Setting up an automated way of doing this can eliminate this issue. Anything from an excel formula or macro to coding in a data science frameword can help.
+Often, computer tasks that need to be done over and over again by a human can be opportunities for error to sneak in. Setting up an automated way of running repetitive (and boring) tasks can eliminate this issue. Anything from a MS Excel formula or macro to coding in a data science frameword can help.
 
 {% capture text %}
-Let's thing about the repetitive tasks that you could automate - do you always rename files the same way? Do you manually copy files across?
+Let's think about the repetitive tasks that you could automate - do you always rename files the same way? Do you manually copy files across?
 
 Ways you can automate things:
 * Spreadsheet Macros and formulas - [Using macros in microsoft excel to facilitate cleaning of research data](https://doi.org/10.1080/20009666.2021.1954282) has instructions on how.
 * MacOS - Automator [find out how to automate 10 useful things](https://www.idownloadblog.com/2018/11/21/cool-things-mac-automator-tutorial/)
 * Win 10 - Task scheduler [learn how with this blog post](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)
-* Microsoft flow or Google script{% endcapture %}{% include card.html header="First steps" text=text %}
+* [Microsoft Power Automate](https://powerautomate.microsoft.com/en-gb/) or [Google Apps Script](https://www.google.com/script/start/){% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
 Could you code up your work so its completely automated? 
-* Learning to code in Python or R - Talk to your local hacky hour or Software Carpentry people{% endcapture %}{% include card.html header="Advanced" text=text %}
+* Learning to code in [Python](https://www.python.org/) or [R](https://www.r-project.org/) - Talk to your local hacky hour or Software Carpentry people.  
+* If you are really, really new to coding we recommend completing a number of the short interactive sesssions from [100 Days of Code - The Complete Python Course by Replit](https://replit.com) pior to attending an R or Python software carpentry workshop.{% endcapture %}{% include card.html header="Advanced" text=text %}
 
 [Previous]() | [Home]() | [Next Page]()

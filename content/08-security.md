@@ -21,7 +21,7 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 
 ##### Encrypt your hard drive
 * Hard drive encryption converts a physical drive into an unreadable format that cannot be unlocked without the secret key or password that was used to encrypt it. Encryption prevents unauthorized people or hackers from accessing the information on the hard drive.
-* [Encryption](https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection)
+* [Encryption](https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection) support from Griffith University
 * [Win 10 Encryption](https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10)
 * [Win 7 Encryption](https://www.microsoft.com/en-au/download/details.aspx?id=4794) 
 * [Mac OS](https://support.apple.com/en-au/HT204837){% endcapture %}{% include card.html header="Beginner" text=text %}
@@ -35,7 +35,7 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 2. Use a [VPN (Virtual private network)](https://au.pcmag.com/vpn/138/the-best-vpn-services) whenever you’re not at work
 3. Keep your operating system and products up to date (especially your web browsers)
 * You can use [Qualsys Browser Check](https://browsercheck.qualys.com/) to confirm your browser is set securely
-* Look at Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) for more information.{% endcapture %}{% include card.html header="Advanced" text=text %}
+* Review Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) for more information.{% endcapture %}{% include card.html header="Advanced" text=text %}
  
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step6CloudBackup)  |  [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId)

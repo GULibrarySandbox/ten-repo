@@ -13,9 +13,9 @@ Data is considered sensitive when it can be used to identify an individual, spec
 * ecological data that may place vulnerable species at risk
 * culturally sensitive data
 
-Separating or de-identifying your data usually occurs to protect an individuals privacy.  According to the [Australian Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979), "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable".  
+Separating or de-identifying your data usually occurs to protect an individuals privacy.  According to the Commonwealth [Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979), "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable".  
 
-De-identified information is no longer considered personal information and can be shared. More information on legal definitions and requirements on privacy can be found in  the [Commonwealth Privacy Act](https://www.legislation.gov.au/Details/C2016C00979)
+De-identified information is no longer considered personal information and can be shared. More information on legal definitions and requirements on privacy can be found in the Commonwealth [Privacy Act](https://www.legislation.gov.au/Details/C2016C00979).
 
 De-identifiying aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, culturally sensitive data (for example archaelogical sites at risk of vandalism or looting) or the location of endangered species.  
 
@@ -23,10 +23,9 @@ Any identifiers (name, date of birth, address or geospatial locations etc.) shou
 
 *Re-identifing* an individual can be possible by recombining the de-identifiable data set and the identifiers. Steps need to be undertaken to avoid this occuring.
 
-#### Australian practical guidance for de-identification (ARDC)
-*Australian Research Data Commons (ARDC)* has an excellent guide on De-identification.  The [De-identification Guide](https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
+#### Australian practical guidance for de-identification
 
-More practical guidelines available nationally include:
+- The ARDC's [Identifiable Data](https://ardc.edu.au/resource/identifiable-data/)resource collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets. In addition, their [Publishing sensitive data guide](https://ardc.edu.au/resource/publishing-sensitive-data-guide/) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
 
 * The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a [‘De-identification Decision Making Framework’](https://www.oaic.gov.au/privacy/guidance-and-advice/de-identification-decision-making-framework) which is a “practical guide to de-identification, focussing on operational advice”.  The guide will assist organisations that handle personal information to de-identify their data effectively. 
 
@@ -36,7 +35,7 @@ More practical guidelines available nationally include:
  
 * Office of the Information Commissioner Queensland guidance on [Privacy and De-identified data](https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification).
 
-#### Tips for managing de-identification (ARDC)
+#### Tips for managing de-identification 
 
 * Plan de-identification early in the research as part of your data management planning
 * Retain original unedited versions of data for use within the research team and for preservation
@@ -44,7 +43,7 @@ More practical guidelines available nationally include:
 * Store the log separately from the de-identified data files
 * Identify replacements in text in a meaningful way, e.g. in transcribed interviews indicate replaced text with [brackets] or use XML markup tags e.g. <anon>.....</anon>
 
-#### Management of identifiable data (ARDC)
+#### Management of identifiable data
 
 Data may often need to be identifiable during the process of research. If data is identifiable then ethical and privacy requirements can be met through *access control and data security*. This may take the form of:
 
@@ -52,9 +51,7 @@ Data may often need to be identifiable during the process of research. If data i
 * Encryption of data, particularly if it is being moved between locations
 * Ensuring data is not stored in an identifiable and unencrypted format when on easily lost items such as USB keys, laptops and external hard drives.
 * Taking reasonable actions to prevent the inadvertent disclosure, release or loss of sensitive personal information.
-
-#### Safely sharing sensitive data guide (ARDC)
-* The ARDC's [Idenditifiable Data](https://ardc.edu.au/resource/identifiable-data/) collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets.  
+Source: [ARDC]((https://ardc.edu.au/resource/identifiable-data/)
 
 #### Five Safes framework: Working with sensitive data 
 

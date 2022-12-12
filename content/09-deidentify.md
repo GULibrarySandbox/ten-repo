@@ -19,17 +19,14 @@ De-identified information is no longer considered personal information and can b
 
 De-identifiying aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, culturally sensitive data (for example archaelogical sites at risk of vandalism or looting) or the location of endangered species.  
 
-Any identifiers (name, date of birth, address or geospatial locations etc) should be removed from main data set and replaced with a code/key.  The code/key is then encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements.  
+Any identifiers (name, date of birth, address or geospatial locations etc.) should be removed from main data set and replaced with a code/key.  The code/key is then encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements.  
 
-*Re-identifing* an individual is possible by recombining the de-identifiable data set and the identifiers.  
-
-###### Video Five Safes: Working with sensitive data (UK Data Service)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mln9T52mwj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Re-identifing* an individual can be possible by recombining the de-identifiable data set and the identifiers. Steps need to be undertaken to avoid this occuring.
 
 ###### Australian practical guidance for de-identification (ARDC)
 *Australian Research Data Commons (ARDC)* has an excellent guide on De-identification.  The [De-identification Guide](https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
 
-Here are examples of practical guidelines available nationally:
+More practical guidelines available nationally include:
 
 * The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a [‘De-identification Decision Making Framework’](https://www.oaic.gov.au/privacy/guidance-and-advice/de-identification-decision-making-framework) which is a “practical guide to de-identification, focussing on operational advice”.  The guide will assist organisations that handle personal information to de-identify their data effectively. 
 
@@ -37,7 +34,7 @@ Here are examples of practical guidelines available nationally:
 
 * [The Australian Government’s guide to health privacy](https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-health-privacy), includes techniques for making a data set non-identifiable and example case studies.
  
-* Office of the Information Commissioner Queensland guidance on [Privacy and De-identified data](https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification)
+* Office of the Information Commissioner Queensland guidance on [Privacy and De-identified data](https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification).
 
 ###### Tips for managing de-identification (ARDC)
 
@@ -59,5 +56,19 @@ Data may often need to be identifiable during the process of research. If data i
 ###### Safely sharing sensitive data guide (ARDC)
 * The ARDC's [Idenditifiable Data](https://ardc.edu.au/resource/identifiable-data/) collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets.  
 
+###### Five Safes framework: Working with sensitive data 
 
-[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step7CompSecurity) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step9Identifiers)
+The Five Safes framework is an approach to assessing and managing risks associated with data sharing and release.  It has been adopted by Australia's major data agencies including the Australian Bureau of Statistics, Australian Institute of Health and Welfare which enables researchers to access their large datasets for valid research purposes.
+
+Five Safe Framework has five dimensions with associate risks and management solutions:
+* safe people
+* safe projects
+* safe settings
+* safe data
+* safe outputs
+
+Watch this short video from the UK Data Service on how the framework can be applied.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mln9T52mwj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[Previous]() | [Home]() | [Next Page]()

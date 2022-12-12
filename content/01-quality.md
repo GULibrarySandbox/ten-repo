@@ -49,6 +49,7 @@ While small datasets could be altered manually, large scale datasets will requir
 Learn to apply some tidy data methods with this [online module](https://griffithunilibrary.github.io/intro-data-wrangle/) using the open source data cleaning software [OpenRefine](https://openrefine.org/).{% endcapture %}{% include card.html header="Intermediate steps - learn ways to clean and wrangle your data" text=text %}
 
 {% capture text %}
-Learn R for Data Science, specifically the [tidyr package](https://r4ds.had.co.nz/tidy-data.html), or Python for Data Science and the [pandas package](https://byuidatascience.github.io/python4ds/tidy-data.html).
-Attend an Introductory coding course held at your institution such as [Griffith's Coding Workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour).{% endcapture %}{% include card.html header="Advanced steps - learn to tidy data with code" text=text %}
+- Learn R for Data Science, specifically the [tidyr package](https://r4ds.had.co.nz/tidy-data.html), or Python for Data Science and the [pandas package](https://byuidatascience.github.io/python4ds/tidy-data.html).
+- Attend an Introductory coding course held at your institution such as [Griffith's Coding Workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour).
+- If you are really new to coding we recommend completing a number of the short interactive, online lessons from [100 Days of Code - The Complete Python Course by Replit](https://replit.com) pior to attending an R or Python software carpentry workshop.{% endcapture %}{% include card.html header="Advanced steps - learn to tidy data with code" text=text %}
 

@@ -5,7 +5,7 @@ nav: Resources
 
 ### References
 
-- 
+- Australian Bureau of Statistics (2021). Five Safes framework:  Data confidentiality guide. [https://ukdataservice.ac.uk/help/secure-lab/what-is-the-five-safes-framework/](https://www.abs.gov.au/about/data-services/data-confidentiality-guide/five-safes-framework)
 - Bauzon, J., Murphy, C., Wahi-Gururaj, S. (2021). Using macros in microsoft excel to facilitate cleaning of research data, Journal of Community Hospital Internal Medicine Perspectives, 11:5, 653-657, DOI: [10.1080/20009666.2021.1954282](https://www.tandfonline.com/doi/full/10.1080/20009666.2021.1954282)
 - Bryan, J. (2015). Naming things.[https://speakerdeck.com/jennybc/how-to-name-files](https://speakerdeck.com/jennybc/how-to-name-files)
 - CESSDA Training Team (2017 - 2022). File naming and folder conventions, CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from  [https://dmeg.cessda.eu/CESSDA ](https://dmeg.cessda.eu/CESSDA)
@@ -13,10 +13,12 @@ nav: Resources
 - Eddy, M. (2022). The best VPN Services. PC Mag, November 29 2022. [https://au.pcmag.com/vpn/138/the-best-vpn-services](https://au.pcmag.com/vpn/138/the-best-vpn-services)
 - IBM. (2022).File naming conventions, IBM Documentation. Accessed 12 December 2022. [https://www.ibm.com/docs/en/aix/7.1?topic=files-file-naming-conventions](https://www.ibm.com/docs/en/aix/7.1?topic=files-file-naming-conventions)
 - Komarek, A., M. (2021). Replication Data for the study on income, consumer preferences, and the future of livestock-derived food demand. Dataverse. (Data Collection). [https://doi.org/10.7910/DVN/ZPWQBB](https://doi.org/10.7910/DVN/ZPWQBB)
+- O’Keefe, C.M., Otorepec, S., Elliot, S., Mackey, S., O’Hara, K. (2017). The De-Identification Decision-Making Framework. CSIRO Reports EP173122 and EP175702. Available at: [https://www.data61.csiro.au/en/Our-Work/Safety-and-Security/Privacy-Preservation/De-identification-Decision-Making-Framework])https://www.data61.csiro.au/en/Our-Work/Safety-and-Security/Privacy-Preservation/De-identification-Decision-Making-Framework)
+- Office of the Australian Information Commissioner. (2017). De-identification-and-the-privacy-act. [https://www.oaic.gov.au/agencies-and-organisations/guides/de-identification-and-the-privacy-act](https://www.oaic.gov.au/agencies-and-organisations/guides/de-identification-and-the-privacy-act).
+- Office of the Australian Information Commissioner. (2018). Guide to health privacy.[https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-health-privacy](https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-health-privacy)
+- Office of the Information Commissioner Queensland. (2020). Privacy and De-identified data[https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification](https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification)
 - Privacy Act 1988 (Cth). [https://www.legislation.gov.au/Details/C2018C00292](https://www.legislation.gov.au/Details/C2018C00292)
 - Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. [18637/jss.v059.i10](https://doi.org/10.18637/jss.v059.i10)
-
-- 
 - University of Edinburgh. (2019). Naming conventions.[https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 - Westgarth, N. (2014). Better management reduces data loss risk. Research Information. April, 2014. [https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk](https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk)
 

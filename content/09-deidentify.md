@@ -55,7 +55,7 @@ Source: [ARDC](https://ardc.edu.au/resource/identifiable-data/)
 
 #### Five Safes framework: Working with sensitive data 
 
-The Five Safes framework is an approach to assessing and managing risks associated with sensitive data sharing and release.  It has been adopted by Australia's major data agencies including the [Australian Bureau of Statistics](https://www.abs.gov.au/about/data-services/data-confidentiality-guide/five-safes-framework) and [Australian Institute of Health and Welfare](https://www.aihw.gov.au/about-our-data/data-governance/the-five-safes-framework). Applying the framework to the data, its users and their purpose, storage and eventual research outcomes enables researchers to access their large, linked datasets for valid research purposes.
+The Five Safes framework is an approach to assessing and managing risks associated with sensitive data sharing and release.  It has been adopted by Australia's major statistics agencies including the [Australian Bureau of Statistics](https://www.abs.gov.au/about/data-services/data-confidentiality-guide/five-safes-framework) and [Australian Institute of Health and Welfare](https://www.aihw.gov.au/about-our-data/data-governance/the-five-safes-framework). Applying the framework to the data, its users and their purpose, storage and eventual research outcomes, enables researchers to access their large, linked datasets for valid research purposes.
 
 Five Safe Framework has five dimensions with associated risks and management solutions:
 * safe people

@@ -38,13 +38,13 @@ Griffith has a gitlab version you can use for private repositories. Also record 
 If you are using the HPC, also record the version of any modules you used there.{% endcapture %}{% include card.html header="Advanced" text=text %}
 
 {% capture text %}
-If you’ve heard of [Docker](https://www.docker.com/) or [Singularity](https://docs.sylabs.io/guides/latest/user-guide/#) and you are interested, come talk to [Griffith hacky hour/eResearch Services](https://www.griffith.edu.au/eresearch-services).{% endcapture %}{% include card.html header="SUPER Advanced" text=text %}
+If you’ve heard of [Docker](https://www.docker.com/) or [Singularity](https://docs.sylabs.io/guides/latest/user-guide/#) and you are interested in using the functions, talk to [Griffith hacky hour/eResearch Services](https://www.griffith.edu.au/eresearch-services).{% endcapture %}{% include card.html header="SUPER Advanced" text=text %}
 
 {% include alert.html text="Note: if you are going to *publish* a Git repository, contact [Griffith's Information Policy Officer](https://www.griffith.edu.au/copyright-matters) for a copyright licence advice." align="center" color="success" %}
 
 ### Internal Resources
 
-* Workshops on how to use git are available through [Software Carpentry workshops at Griffith](https://www.griffith.edu.au/eresearch-services/hacky-hour).
+* Workshops on how to use Git are available through [Software Carpentry workshops at Griffith](https://www.griffith.edu.au/eresearch-services/hacky-hour).
 
 ### External Resources
 

@@ -21,11 +21,11 @@ De-identifiying aims to allow data to be used by others for publishing, sharing 
 
 Any identifiers (name, date of birth, address or geospatial locations etc.) should be removed from main data set and replaced with a code/key.  The code/key is then encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements.  
 
-*Re-identifing* an individual can be possible by recombining the de-identifiable data set and the identifiers. Steps need to be undertaken to avoid this occuring.
+*Re-identifing* an individual can be possible by recombining the de-identifiable data set and the identifiers. There are processes that can be undertaken to mitigate this.
 
 #### Australian practical guidance for de-identification
 
-- The ARDC's [Identifiable Data](https://ardc.edu.au/resource/identifiable-data/)resource collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets. In addition, their [Publishing sensitive data guide](https://ardc.edu.au/resource/publishing-sensitive-data-guide/) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
+- The ARDC's [Identifiable Data](https://ardc.edu.au/resource/identifiable-data/) resource collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets. In addition, their [Publishing sensitive data guide](https://ardc.edu.au/resource/publishing-sensitive-data-guide/) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
 
 * The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a [‘De-identification Decision Making Framework’](https://www.oaic.gov.au/privacy/guidance-and-advice/de-identification-decision-making-framework) which is a “practical guide to de-identification, focussing on operational advice”.  The guide will assist organisations that handle personal information to de-identify their data effectively. 
 
@@ -33,7 +33,7 @@ Any identifiers (name, date of birth, address or geospatial locations etc.) shou
 
 * [The Australian Government’s guide to health privacy](https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-health-privacy), includes techniques for making a data set non-identifiable and example case studies.
  
-* Office of the Information Commissioner Queensland guidance on [Privacy and De-identified data](https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification).
+* Office of the Information Commissioner Queensland has developed excellent guidance on [Privacy and De-identified data](https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification).
 
 #### Tips for managing de-identification 
 
@@ -51,13 +51,13 @@ Data may often need to be identifiable during the process of research. If data i
 * Encryption of data, particularly if it is being moved between locations
 * Ensuring data is not stored in an identifiable and unencrypted format when on easily lost items such as USB keys, laptops and external hard drives.
 * Taking reasonable actions to prevent the inadvertent disclosure, release or loss of sensitive personal information.
-Source: [ARDC]((https://ardc.edu.au/resource/identifiable-data/)
+Source: [ARDC](https://ardc.edu.au/resource/identifiable-data/)
 
 #### Five Safes framework: Working with sensitive data 
 
-The Five Safes framework is an approach to assessing and managing risks associated with data sharing and release.  It has been adopted by Australia's major data agencies including the Australian Bureau of Statistics, Australian Institute of Health and Welfare which enables researchers to access their large datasets for valid research purposes.
+The Five Safes framework is an approach to assessing and managing risks associated with sensitive data sharing and release.  It has been adopted by Australia's major data agencies including the [Australian Bureau of Statistics](https://www.abs.gov.au/about/data-services/data-confidentiality-guide/five-safes-framework) and [Australian Institute of Health and Welfare](https://www.aihw.gov.au/about-our-data/data-governance/the-five-safes-framework). Applying the framework to the data, its users and their purpose, storage and eventual research outcomes enables researchers to access their large, linked datasets for valid research purposes.
 
-Five Safe Framework has five dimensions with associate risks and management solutions:
+Five Safe Framework has five dimensions with associated risks and management solutions:
 * safe people
 * safe projects
 * safe settings

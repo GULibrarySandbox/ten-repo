@@ -74,7 +74,8 @@ Jessica's research was published in a journal which could also publish and mint 
 Ensure data you publish or associate with a publication has a DOI. 
 
 How?
-* Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. Examples include:
+* Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. 
+* Examples include:
   * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
   * [re3data.org](https://www.re3data.org/) registry of discipline and other data repositories
 * Cite your dataset in the references of the articles it supports.  This is the best way for others to find and access your dataset, for reproducibility purposes or to use with attribution in their own research. Professor Mark Finnane illustrates this in the citation to his dataset [*The Prosecution Project Database*](https://prosecutionproject.griffith.edu.au/dataverse/) in reference 27 of his [article](https://research-repository.griffith.edu.au/handle/10072/340488) published in the *UNSW Law Journal*.
@@ -85,7 +86,8 @@ How?
 * Read the [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/).{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-* Learn more about the [ARDC's policy supporting PiDs](https://ardc.edu.au/resource/ardc-persistent-identifiers-policy/) to improve tracking of research impact, contribute to research integrity and enable research innovation.{% endcapture %}{% include card.html header="Advanced" text=text %}
+* Learn more about the [ARDC's policy supporting PiDs](https://ardc.edu.au/resource/ardc-persistent-identifiers-policy/) to improve tracking of research impact, contribute to research integrity and enable research innovation.
+* Read the article [Ten simple rules for getting and giving credit for data](https://doi.org/10.1371/journal.pcbi.1010476) or [Ten simple rules for improving research data discovery](https://doi.org/10.1371/journal.pcbi.1009768) for a researcher's perspective on linking data to publications. {% endcapture %}{% include card.html header="Advanced" text=text %}
 
 ##### Internal Resources
 * Contact the Library Repository Team via the [online form](https://intranet.secure.griffith.edu.au/library/forms/help) for advice on how to obtain a DOI for your data upon project completion.

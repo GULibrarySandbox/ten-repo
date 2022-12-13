@@ -30,7 +30,6 @@ Try devising a folder naming convention or note one or two improvements you coul
 
 Try out one of these downloadable templates below:
 * [Here's one you are welcome to download and use](https://github.com/guereslib/MyResearchProjects/archive/master.zip) (double check with Amanda who created this?)
-* A great project folder template for MACOSX or Windows from researcher Nikola Vukovic [http://nikola.me/](http://nikola.me/assets/Folder_Template.zip).
 * University of Sydney [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL).{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
@@ -39,7 +38,7 @@ Develop a procedure on folder structures for your team. You could create a templ
 Use a [python package](https://github.com/vukovicnikola/templateproject) developed by researcher Nikola Vukovic to generate a logical, standardised, and flexible directory hierarchy for academic research {% endcapture%}{% include card.html header="Advanced" text=text %}
 
 ### External Resources
-* Folder structure template [http://nikola.me/](http://nikola.me/folder_structure.html)
-* Griffith University [example template](https://github.com/guereslib/MyResearchProjects/archive/master.zip).
+* [Griffith University example template](https://github.com/guereslib/MyResearchProjects/archive/master.zip) for download.
+* [University of Sydney README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL).{% endcapture %}{% include card.html header="First steps" text=text %}
 
 [Previous](https:)| [Home](https:) | [Next Page](https:)

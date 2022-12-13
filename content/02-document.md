@@ -44,9 +44,11 @@ Find out more about shared storage spaces in [Step 7 - Cloud backups](https://gu
 {% include card.html header="First steps" text=text %}
 
 {% capture text %}
-Once you have the basics in place from reading [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata), document in detail on how your workflow goes from your raw data to the finished results. 
+Document in detail on how your workflow goes from your raw data to the finished results. This can be anything from a downloaded function list from SPSS/NVIVO to the code used to create it. 
 
-This can be anything from a downloaded function list from SPSS/NVIVO to the code used to create it. 
+Consider developing a Standard Operating Procedure for your project team or lab.   
+
+Read the PLoS article [Ten simple rules on how to write a standard operating procedure](https://doi.org/10.1371/journal.pcbi.1008095) and use the [template](https://zenodo.org/record/3678317#.Y2suUORByUk) the researchers have shared.
 
 You could also try to Sync the document automatically to the cloud with your data. (??This needs a link to more information on how to do this??){% endcapture %}{% include card.html header="Intermediate" text=text %}
 

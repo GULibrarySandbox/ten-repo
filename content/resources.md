@@ -62,9 +62,11 @@ nav: Resources
 - [Microsoft Power Automate](https://powerautomate.microsoft.com/en-gb/) or 
 - [OpenRefine](https://openrefine.org/) software
 - [pandas package](https://byuidatascience.github.io/python4ds/tidy-data.html)
+- [PLoS journals recommended data repositories](https://journals.plos.org/plosone/s/recommended-repositories)
 - [Python](https://www.python.org/)
 - [python package for folder templates](https://github.com/vukovicnikola/templateproject)
 - [Qualsys Browser Check](https://browsercheck.qualys.com/)
+
 - [R](https://www.r-project.org/)
 - [re3data.org](https://www.re3data.org/) registry of data repositories
 - [Reproducible research in Git ](https://nbis-reproducible-research.readthedocs.io/en/latest/git/)

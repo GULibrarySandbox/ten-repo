@@ -88,7 +88,7 @@ How?
 
 {% capture text %}
 * Learn more about the [ARDC's policy supporting PiDs](https://ardc.edu.au/resource/ardc-persistent-identifiers-policy/) to improve tracking of research impact, contribute to research integrity and enable research innovation.
-* Read the article [Ten simple rules for getting and giving credit for data](https://doi.org/10.1371/journal.pcbi.1010476) or [Ten simple rules for improving research data discovery](https://doi.org/10.1371/journal.pcbi.1009768) for a researcher's perspective on linking data to publications. {% endcapture %}{% include card.html header="Advanced" text=text %}
+* Read the article [Ten simple rules for getting and giving credit for data](https://doi.org/10.1371/journal.pcbi.1010476) or [Ten simple rules for improving research data discovery](https://doi.org/10.1371/journal.pcbi.1009768) for researcher perspectives on linking data to publications. {% endcapture %}{% include card.html header="Advanced" text=text %}
 
 ##### Internal Resources
 * Contact the Library Repository Team via the [online form](https://intranet.secure.griffith.edu.au/library/forms/help) for advice on how to obtain a DOI for your data upon project completion.

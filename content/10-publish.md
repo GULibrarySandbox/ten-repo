@@ -78,6 +78,7 @@ How?
 * Examples include:
   * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
   * [re3data.org](https://www.re3data.org/) registry of discipline and other data repositories
+  * [PLoS journals recommended repositories](https://journals.plos.org/plosone/s/recommended-repositories)
 * Cite your dataset in the references of the articles it supports.  This is the best way for others to find and access your dataset, for reproducibility purposes or to use with attribution in their own research. Professor Mark Finnane illustrates this in the citation to his dataset [*The Prosecution Project Database*](https://prosecutionproject.griffith.edu.au/dataverse/) in reference 27 of his [article](https://research-repository.griffith.edu.au/handle/10072/340488) published in the *UNSW Law Journal*.
 * Contact your Library staff for guidance.{% endcapture %}{% include card.html header="First steps" text=text %}
 

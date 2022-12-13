@@ -11,6 +11,7 @@ nav: Resources
 - Brown, C. J., Broadley, A., Adame, M. F., Branch, T. A., Turschwell, M. P., & Connolly, R. M. (2019). The assessment of fishery status depends on fish habitats. Fish and Fisheries, 20(1), 1-14. [https://doi.org/10.1111/faf.12318](https://doi.org/10.1111/faf.12318)
 - Bryan, J. (2015). Naming things.[https://speakerdeck.com/jennybc/how-to-name-files](https://speakerdeck.com/jennybc/how-to-name-files)
 - CESSDA Training Team (2017 - 2022). File naming and folder conventions, CESSDA Data Management Expert Guide. Bergen, Norway: CESSDA ERIC. Retrieved from  [https://dmeg.cessda.eu/CESSDA ](https://dmeg.cessda.eu/CESSDA)
+- Contaxis N, Clark J, Dellureficio A, Gonzales S, Mannheimer S, Oxley PR, et al. (2022) Ten simple rules for improving research data discovery. PLoS Comput Biol 18(2): e1009768. [https://doi.org/10.1371/journal.pcbi.1009768](https://doi.org/10.1371/journal.pcbi.1009768)
 - Dinusha, B., Howell, L., Silbert, M., Daraganova, G. (2021). Ten to Men: The Australian Longitudinal Study on Male Health, Release 3 (Waves 1-3),, ADA Dataverse, V4. (Dataset). [doi:10.26193/JDE1TD](doi:10.26193/JDE1TD)
 - Eddy, M. (2022). The best VPN Services. PC Mag, November 29 2022. [https://au.pcmag.com/vpn/138/the-best-vpn-services](https://au.pcmag.com/vpn/138/the-best-vpn-services)
 - Griffith University. (2021). Australian Historical Criminal Justice Dataverse. Canberra, ADA. [https://dataverse.ada.edu.au/dataverse/australian_historical_criminal_justice_data](https://dataverse.ada.edu.au/dataverse/australian_historical_criminal_justice_data)
@@ -27,6 +28,7 @@ nav: Resources
 - Piper, A., & Finnane, M. (2017). Access to legal representation by criminal defendants in Victoria, 1861-1961. University of New South Wales Law Journal, 40(2), 638-663. [http://hdl.handle.net/10072/340488](http://hdl.handle.net/10072/340488)
 - Privacy Act 1988 (Cth). [https://www.legislation.gov.au/Details/C2018C00292](https://www.legislation.gov.au/Details/C2018C00292)
 - Wickham, H. (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. [18637/jss.v059.i10](https://doi.org/10.18637/jss.v059.i10)
+- Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple rules for getting and giving credit for data. PLoS Comput Biol 18(9): e1010476. [https://doi.org/10.1371/journal.pcbi.1010476](https://doi.org/10.1371/journal.pcbi.1010476)
 - University of Edinburgh. (2019). Naming conventions.[https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 - Westgarth, N. (2014). Better management reduces data loss risk. Research Information. April, 2014. [https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk](https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk)
 

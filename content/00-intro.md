@@ -23,9 +23,24 @@ Reproducible research has most of the advantages of replicating studies without 
 - Enhances opportunities for research methods training
 - Reproducible research is a strong indicator of rigour, trustworthiness and transparency
 
-This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality or tidy data, documentation, management of sensitive data, through to the publication of datasets. 
+#### Some scenarios to consider:
 
-By following these steps, you will not only improve on the quality of your research processes but facilitate the development of new and innovative research through good practice.
+1. A key person from your research team has disappeard (family, personal emergency or no longer contactable). 
+- Could you continue your work? 
+- Do you know where your data is stored? 
+- Could you keep working effectively for 1 month? 1 year?
+
+2. You lose your laptop bag containing your all your external hard drives. 
+- Could you continue your work? 
+- Is your data backed up? Encrypted?
+
+3. Someone has published contradicting results to your published paper
+- Can your provide your data and methods?
+
+4. A research partner organization believes your sensitive data has been breached or made available to a third party. 
+- Can you show the steps taken and measures put in place to avoid this?
+
+Work through the following lessons for practical solutions and good practice ideas.
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/ten-repo/content/01-quality.html">NEXT --></a>

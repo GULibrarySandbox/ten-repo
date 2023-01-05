@@ -9,28 +9,7 @@ layout: default
 
 ### Aims and topics
 
-A collection of resources aimed at facilitating researchers moving towards reproducibility. 
-
-Some scenarios to consider:
-
-1.
-A key person from your research team has disappeard (family, personal emergency or no longer contactable). 
-- Could you continue your work? 
-- Do you know where your data is stored? 
-- Could you keep working effectively for 1 month? 1 year?
-
-2.
-You lose your laptop bag containing your all your external hard drives. 
-- Could you continue your work? 
-- Is your data backed up? Encrypted?
-
-3.
-Someone has published contradicting results to your published paper
-- Can your provide your data and methods?
-
-4.
-A research partner organization believes your sensitive data has been breached or made available to a third party. 
-- Can you show the steps taken and measures put in place to avoid this?
+This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality, documentation, management of sensitive data, through to the publication of datasets. The aim is to move towards reproducible research regardless of your current skills, including useful resources for beginners, intermediate and advanced learners. 
 
 ### Audience
 
